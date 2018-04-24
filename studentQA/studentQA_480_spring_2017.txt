@@ -1,3 +1,81 @@
+What are factors that effect a nation’s economy?
+Inflation, national income, government policies, and exchange rates
+What is a forward contract?
+A forward contract is an agreement between a foreign exchange dealer and an MNC that specifies the currencies to be exchanged.
+When was the gold standard implemented?
+The 1800s and early 1900’s
+What does PPP stand for?
+Purchasing Power Parity
+What is the forward rate formula?
+F=S(1 + p)
+How is international financial management different from domestic financial management?
+Foreign exchange and political risks, market imperfections, and expanded opportunity.
+What are the various categories of multinational firms?
+Raw materials seekers, market seekers, and cost minimizers.
+What is an efficient market?
+An efficient market is one in which new information is readily incorporated in the prices of traded securities.
+What is the basic message of the CAPM?
+Risk is priced in a portfolio context, systematic risk is priced; unsystematic risk is not priced and doesn't affect the required return a project.
+How might a multinational firm use the CAPM?
+CAPM can be used to estimate the required return on foreign projects.
+	What is the goal of Multinational Corporation (MNC)
+to maximize shareholder wealth
+	What is the World Trade Organization (WTO)?
+WTO was established by General Agreement on Tariffs and Trade (GATT) to provide a forum for multilateral trade negotiations and to settle trade disputes since 1994.
+	What are the details of licensing?
+Copyrights, patents, trademarks, or trade names in exchange for fees or some other benefits.
+What is foreign exchange risk?
+The risk of valuation changes resulting from unforeseen currency movements.
+What are indirect methods of adjusting funds flow?
+Adjust transfer prices, leading and lagging receivables
+What is arbitrage?
+The simultaneous purchase and sale of the same assets or commodities on different markets to profit from price discrepancies.
+What is the International Fisher effect?
+Parody condition that says that interest differential between two countries should be an unbiased predictor of the future change in the spot rate
+What is currency forecasting?
+Prediction of future exchange rates.
+What is market-based forecast?
+Forecast that rely on information already embedded in market prices.
+What are the balances of trade?
+= exports – imports
+Factors Affecting International Trade Flows
+Impact of Inflation, National Income, Government Restrictions, Exchange Rates
+What is the impact of inflation?
+A relative increase in a country's inflation rate will decrease its current account, as imports increase and exports decrease.
+What are the factors that effect DFI?
+Changes in Restrictions, Privatization, Potential Economic Growth, Tax Rates, Exchange Rates
+What is foreign exchange market?
+Allows currencies to be exchanged in order to facilitate international trade or financial transactions.
+What are Factors that Influence Exchange Rates?
+Spot rate, inflation rate, interest rate, income level, government control, expectations of future exchange rates.
+What are BRIC countries?
+Brazil, Russia, India, and China
+What are BIITS countries?
+Brazil, India, Indonesia, Turkey, South Africa, which are also termed the fragile five.
+What are MINT countries?
+Mexico, Indonesia, Nigeria, Turkey
+What are MID rates?
+The middle or the average of the rates at which currency traders buy currency.
+What are Eurocurrencies?
+domestic currencies of one country on deposit in a second country
+What are Institutions?
+Are the central banks, commercial, and investment banks. Their health keeps the global financial system stable.
+What are Multinational enterprise (MNE)?
+Is a company that is incorporated in one country and has production and distribution facilities in other countries?
+What is the definition of Foreign Exchange?
+The money of a foreign country (foreign currency bank balances, banknotes, checks and drafts) in relation to the home currency.
+What is a transnational corporation?
+A MNE whose ownership is widely spread; managed from a global perspective.
+What is the purpose of the "International Parity Conditions"?
+Economic theory that links FX rates, price levels and interest rates and therefore explains changes in FX rates.
+What is a forward premium/discount?
+The percentage difference between the spot and the forward exchange rate.
+What is the so-called agency problem?
+Separation of ownership from management with the objectives may not be perfectly aligned
+What are possible ways of corporate governance regimes?
+market-based, family-based, bank-based, government affiliated
+What are the three main IMF Exchange Rate Classifications?
+Hard Pegs, Soft Pegs, Floating Arrangements
 What are some ways firms can engage in international business?
 Importing and exporting, licensing, franchising, joint ventures, buying a local company, or starting a foreign company. 
 What are examples of direct foreign investment?
@@ -1334,3 +1412,342 @@ Q: What is the absolute form of PPP based on?
 A: The absolute form of PPP is based on the notion that without international barriers, consumers shift their demand to wherever prices are lower.
 Q: What does the relative form of PPP account for?
 A: The relative form of PPP accounts for the possibility of market imperfections such as transportation costs, tariffs, and quotas. 
+What is the maximum limit that can be imported?
+A quota is the maximum that can be imported.
+How is a country’s currency measured in relation to other currencies?
+A countries currency is measured through exchange rates.
+What is price elasticity?
+Price elasticity is the sensitivity to price changes.
+What was the structured international monetary policy that was established by the United Nations Monetary and Financial Conference?
+The International Monetary Fund was a result of the conference
+What is compensatory financing facility (CFF)?
+The CFF is a key duty of the IMF in which it attempts to reduce the impact of export instability on country economies. 
+What is a quotation that represents the value of a foreign currency in dollars? 
+A direct quote.
+What is a quotation that represent the number of units of a foreign currency per dollar?
+An indirect quote.
+What is the loan rate that floats in accordance with the movement of some market interest rate?
+London Interbank Offer Rate (LIBOR).
+What is a freely floating exchange rate system?
+When exchange rates values are determined by market forces without intervention by governments. 
+What is the job of the European Central Bank (ECB)?
+It is responsible for setting monetary policy for all participating European countries.
+What is nonsterilized intervention?
+When the Fed intervenes in the foreign exchange market without adjusting for the change in the money supply. 
+What are cross exchange rates?
+Cross exchange rates represent the relationship between two currencies that are different from one’s base currency. 
+What is the process of capitalizing on the interest rate differential between two countries while covering your exchange rate risk with a forward contract?
+Covered interest arbitrage. 
+What is the international fisher effect (IFE)?
+The IFE uses interest rate rather than inflation rate differentials to explain why exchange rates change over time. 
+What is the method of mixed forecasting?
+Mixed forecasting is using a combination of forecasting techniques because no single one has been found to be consistent. 
+What does it mean for a foreign exchange market to be strong-form efficient?
+If a foreign exchange market is strong-form efficient, all relevant public and private information is already reflected in today’s exchange rates. 
+What is economic exposure?
+Economic exposure is the sensitivity of a firm’s cash flows to exchange rate movements.
+What is a subset of economic exposure?
+Transaction exposure is a subset of economic exposure.
+What is translation exposure?
+Translation exposure is the exposure of an MNC’s consolidated financial statements to exchange rate fluctuations.
+What does a money market hedge position look like?
+A money market hedge on payables involves taking a money market position to cover a future payables position. 
+How is the real cost of hedging payables calculated?
+The real cost of hedging payables is calculated as cost of hedging payables minus cost of payables if not hedged. 
+What does the real cost of hedging payable measure?
+An MNC can evaluate hedging decisions that they made in the past.
+What is overhedging?
+Overhedging is hedging a larger amount in a currency than the actual transaction amount.
+What is a solution to overhedging?
+A solution to avoid overhedging is to hedge only the minimum known amount in the future contract.
+What does currency diversification do?
+Currency diversification can limit the potential effect of any single currency’s movements on the value of the MNC.
+What is cross hedging?
+Cross hedging is a common method of reducing transaction exposure when the currency cannot be hedged. 
+How do you assess economic exposure?
+The percentage change in a firm’s cash flow is compared to the percentage change in the Euro. 
+What are typical motives for direct foreign investment?
+Typical motives include attracting new sources of demand, enter profitable markets, exploit monopolistic advantages, and diversify internationally.
+What are some cost related motives?
+Some typical motives to try to reduce costs are economies of scale, foreign factors of production, foreign raw materials, and react to exchange rate movements.
+What is economies of scale?
+Economies of scale is lowering the average cost per unit as a result of increased production. 
+What is simulation used for?
+Generation of profitability distribution for NPV based on a range of possible values for one or more input variables. 
+What is dollarization?
+Dollarization is the replacement of a foreign currency with US dollars.
+What does a contingency graph show?
+A contingency graph measures the profit or loss per unit under certain conditions.
+What is a forward contract?
+A forward contract is an agreement between a corporation and a financial institution to exchange a specific amount of a currency at a specific exchange rate on a specific date in the future.
+What is the specific exchange rate in the terms of a forward contract?
+The forward rate.
+How is arbitrage used?
+Arbitrage is used by some investors to earn higher returns than would be possible domestically without taking on additional risk.
+When is a non-deliverable forward contract (NDF) used?
+A NDF contract is frequently used for currencies in emerging markets.
+What is a currency futures contracts?
+A contract specifying a standard volume of a particular currency to be exchanges on a specific settlement date.
+What is a margin requirement used for?
+To cover fluctuations in the value of a contract.
+What is an equilibrium exchange rate?
+An exchange rate in which demand for a currency is equal to the supply of a currency for sale.
+q:What is an arbitrage
+a:Action to capitalize on a discrepancy in quoted prices
+q:What is the asked price
+a:The price at which a trader of foreign exchange is willing to sell a particular currency
+q:When is a counterpurchase
+a:Exchange of goods between two parties under two distinct contracts expressed in monetary terms
+q:What is a countertrade
+a:Sale of goods to one country that is linked to the purchase or exchange of goods from that same country
+q:What is cross exchange rate
+a:Exchange rate between currency A and currency B, given the values of currencies A and B with respect to a third currency
+q:What is coss-hedging
+a:Hedging an open position in one currency with a hedge on another currency that is highly correlated with the first currency
+q:What is DFI
+a:Investment in real assets in foreign countries
+q:What is a direct quotation
+a:Exchange rate quotations representing the value measured by number of dollars per unit
+q:What is dumping
+a:Selling products overseas at unfairly low prices
+q:What is a foward rate
+a:rate at which a bank is willing to exchange one currency for another at some specified date in the future
+q:What is an indirect quotation
+a:Exchange rate quotations representing the value measured by number of units per dollar
+q:What is the interest rate parity
+a:Theory specifiying that the forward premium is equal to the interest rate differential between the two currencies of concern
+q:What is an interest rate swap
+a:Agreement to swap interest payments, fixed interest rate exchanged for floating interest rate
+q:What is nonsterilized intervention
+a:Intervention in the foreign exchange market without adjusting for the change in money supply
+q:What is the real cost of hedging
+a:Additional cost of hedging when compared to not hedging
+q:What is semistrong-form efficient
+a:All relevant public information is already reflected in prevailing spot exchange rates
+q:What is the exercise/strike price
+a:Price set for buying an asset or selling an asset
+q:What is a spot rate
+a:Current exchange rate of currency
+q:What is a futures price
+a:The price at which a futures trader commits to make or take delivery of the underlying asset
+q:What is strong-form efficient
+a:All relevant public an private information is already reflected in the prevailing spot exchange rates
+q:Why do investors hedge
+a:To reduce the overall risk of a portfolio
+q:What is weak-form efficient
+a:Implying that all historical and current exchange rate information is already reflected in prevailing spot exchange rates
+q:What are the international money markets composed of
+a:Several large banks that accept deposits and provide short term loans in various currencies.
+q:Who Uses the international money markets
+a:mainly the government and large corporations
+q:How are exchange rate movements measured
+a:Commonly by the percent change in their values over a specified period, such as a month or a year
+q:What does LIBOR stand for
+a: London Interbank Offered Rate
+q:What are the factors that can influence exchange rate movement
+a:Inflation rates, interest rates, and income levels as well as government controls
+q:When does one buy a currency futres contract
+a:When the speculator expects the currency to appreciate
+q:What are the classifications for the exchange rate systems
+a:fixed rate, freely floating, managed float, and pegged
+q:What happens when the government sells a currency in the foreign exchange market
+a:Puts downward pressure on the currency's equilibrium value
+q:What are commmon forecasting techniques
+a:Technical, fundamental, market based, and mixed
+q:What is transaction exposure
+a:Exposure of an MNC's contractual transactions to exchange rate movements
+q:What are two techniques to hedge longterm transaction exposure
+a:Long term forward contract and parallel loan
+q:What is a parallel loan
+a:Involves the exchange of currencies between tow parties, with promise to reexchange currencies at a specified exchange rate on a future date
+q:What the techniques to optimize cash flows
+a:Accelerate cash inflows, minimize currency conversion costs, managing blocked funds, implementing intersubsidiary cash transfers
+q:What makes up a straddle
+a:Buy a call and buy put
+q:Why is a fixed exchange rate adventagious
+a:Reduces risk by having a constant exchange rate
+q:How is the premium calculated
+a:The difference between the forward rate and the spot rate at a given point in time is measured by the premium
+q:What is a difference between a forward and future
+a:Forwards are not traded on an exchange and futures are
+q:How do MNC's use forward contracts
+a:To hedge imports, locks in a rate which they can otain a currency needed to purchase imports
+Q: How do you value one countries currency to another countries?
+A: Through exchange rates. 
+Q: Why is that if you weaken your currency you will not always fix your balance of trade.
+A: A country could lowers there price of the good
+Q: What does the foreign exchange market do?
+A: Allow for the exchange of one currency to another. 
+Q: What is the spot exchange rate?
+A: The rate at which one currency could be converted into another currency. 
+Q: How long did the foreign exchange market use the gold standard?
+A: From 1876-1913
+Q: How do you calculate the bid ask spread?
+A: (ask rate – Bid rate)/ Ask rate
+Q: What are order costs.
+A: The costs associated with processing orders and the costs of recording the transactions
+Q: What are inventory costs. 
+A: The costs of holding the inventory in the warehouse for a period of time.
+Q: What is a forward contract. 
+A: The agreement for a foreign exchange dealer and a MNC that specifies currency to be exchanged
+Q: What are Eurobonds
+A:  Bonds that are sold in countries other than the country of the currency denominating the bonds
+Q: How do you calculate the real interest rate
+A: Real interest rate= nominal interest rate – inflation rate 
+Q: What is a currency call option?
+A: It grants the right to buy a specific currency at a specified price during a specified time
+Q: What is a currency put option?
+A: It grants the right to sell a specific currency at a specified price during a specified time
+Q: What is the price price in which the owner of a call option can buy it at?
+A: Exercise price or strike price. 
+Q: What is a good option for dealing with volatile currencies?
+A: Creating a straddle. 
+Q: What is the agency problem?
+A: This is the conflict of goals between a firm’s managers and its shareholders.
+Q: What is the Bid Price?
+A: The price in which someone is willing to pay for a certain security. 
+Q: What is the ask Price? 
+A: The price someone is willing to sell a security. 
+Q: How does firms conduct international business
+A: International trade, licensing, franchising, joint ventures.
+Q: What is licensing?
+A: It obligates a frim to provide its technology in exchange for a certain fee.
+Q: What is franchising?
+A: It obligates a firm to provide a specialized sale or service strategy in exchange for a periodic fee. 
+Q: What is a direct foreign investment?
+A: Business that method of increasing international business with a direct investment. 
+Q: What is the balance of payments?
+A: A summary of transactions between domestic and foreign residents of a country.
+Q: What is the current account?
+A: A summary of cash between one country and all other countries
+Q: What is the capital account?
+A: A summary of cash from a sale of assets between one country and all other countries.
+Q: What is a portfolio investment?
+A: Portfolio investment represents transactions involving long term financial assets between countries
+Q: What is dumping?
+A: Exporting products that were produced with the help of government.
+Q: What is the goal of a firm?
+A: Increase shareholder wealth.
+Q: What is outsourcing?
+A: Outsourcing is when a frim hires foreign labor or a foreign supplier.
+Q: What factors affect international trade flow?
+A: Inflation, National income, government policies, and Exchange rates. 
+Q: What is a tariff?
+A: A tax on imported goods.
+Q: What is a quota?
+A: A maximum limit of goods that can be imported. 
+Q: What is the Compensatory Financing facility?
+A: It attempts to reduce the impact of export instability on a country’s economy.
+Q: When was the world bank established?
+A: 1944
+Q: What was the purpose of the world bank
+A: Its objective to make loans to countries to enhance economic development
+Q: What does it mean when a bond is selling for Par value?
+A: It is selling for the face value.
+Q: What market is used for foreign exchange rates?
+A: Spot market. 
+Q:  What is the American Depository receipts?
+A: It is used for non-us firms to obtain equity financing.
+Q: What is a foreign bond?
+A: A bond issued by a borrower from a foreign country. 
+Q: What is a parallel bond?
+A: A bond that is issued from a variety of countries. 
+Q: What does MNC stand for?
+a.	Multinational Corporations
+Q: Explain the agency problem of MNCs.
+a.	The agency problem of MNCs is a conflict of interest that occurs between a company's stockholders and management of the company
+Q: What does IDA stand for?
+a.	International Development Association
+Q: What does OECD stand for?
+a.	Organization for Economic Cooperation and Development
+Q: What does BIS stand for?
+a.	Bank for International Settlements
+Q: What is Franchising?
+a.	It obligates a firm to provide a specialized sale or service strategy, support assistance, and possibly an initial investment in the franchise in exchange for periodic fees.
+Q: What is a Joint Venture?
+a.	A venture that is jointly owned and operated by two or more firms.
+Q: What is the Domestic Model Formula used to find?
+a.	It is used to find value of a purely domestic firm.
+Q: What factors cause some firms to become more internationalized than others?
+a.	International trade
+b.	Licensing
+c.	Franchising
+d.	Joint Venture
+Q: What are the main components of the current account for payments?
+a.	Merchandise and Services
+b.	Factor Income
+c.	Transfers
+Q: What does GATT stand for?
+a.	General Agreement on Tariffs and Trade
+Q: What does NAFTA stand for?
+a.	North American Free Trade Agreement
+Q: Definition of Dumping?
+a.	When exporting of products that were produced with the help of government subsidies.
+Q: What are the most influential factors of international trade?
+a.	Inflation
+b.	National income
+c.	Government policies
+d.	Exchange Rate
+Q: What does CFF stand for?
+a.	Compensatory Financing Facility
+Q: What does SDR stand for?
+a.	Special Drawing Rights
+Q: What does IFC stand for?
+a.	International Financial Corporation
+Q: What does WTO stand for?
+a.	World Trade Organization
+Q: What does MIGA stand for?
+a.	Multilateral Investment Guarantee Agency
+Q: What does IBRD stand for?
+a.	International Bank for Reconstruction and Development
+Q: What is the Bretton Woods Agreement?
+a.	An agreement called for fixed exchange rates between currencies.
+Q: How can governments of foreign countries can influence the equilibrium exchange rate?
+a.	Imposing foreign exchange barriers
+b.	Foreign trade barriers
+c.	Intervening in the foreign exchange markets
+d.	Affecting marco variables such as inflation
+Q: What does NDF stand for?
+a.	Non-derivable forward contract
+Q: What is another term for a Seller?
+a.	Writer
+Q: What does ERM stand for?
+a.	Exchange Rate Mechanism
+Q: Three reasons the US has Central Banks
+a.	To smooth exchange rate movement
+b.	Establish implicit exchange rate boundries
+c.	Respond to temporary disturbances
+Q: Definition of Nonsterilized intervention
+a.	When the Fed intervenes in the foreign exchange market without adjusting for the change in the money supply.
+Q: Definition of Sterilized intervention
+a.	The Fed intervenes in the foreign exchange market and simultaneously engages in offsetting transractions.
+Q: Definition of Arbitrage
+a.	Capitalizing on a discrepancy in quoted prices by making a riskless profit
+Q: Explain Triangular Arbitrage
+a.	Represents the relationship between two currencies that are different from one’s base currency
+Q: What does IRP stand for?
+a.	Interest Rate Parity
+Q: What is the PPP theory?
+a.	This theory attempts to quantify the inflation exchange rate relationship
+Q: What does the fisher effect suggest?
+a.	Expected inflation rates
+b.	Real rate of interest.
+Q: What is fundamental forecasting?
+a.	Fundamental forecasting is based on fundamental relationships between economic variables and exchange rate.
+Q: What is market-based forecasting based on?
+a.	Spot rate
+b.	Forward rate
+Q: Formula for real cost of hedging payables
+a.	RCH=Cost of Hedging payables- cost of payables not hedged
+Q: Alternative Hedging Technique
+a.	Leading and lagging
+b.	Cross-hedging
+c.	Currency diversification
+Q: The key components of the financial account are payments for
+a.	Direct foreign investment
+b.	Portfolio investment
+c.	Other capital investment
+Q: What is the J-curve effect?
+a.	When the US balance of trade improves and the illustration on a graph looks like a J
+Q: Define Privatization
+a.	It allows for greater international business as foreign firms can acquire operations sold by national government.

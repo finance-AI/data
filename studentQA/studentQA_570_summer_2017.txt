@@ -1,0 +1,281 @@
+What is corporate finance?
+To invest in assets and receive an equal amount of raised cash in return.
+What is value creation?
+Selling your investments to generate a cash return.
+What are fixed assets?
+Assets that will last a long time; can be tangible or intangible. 
+What are current assets?
+Assets that will not last a long time; usually inventory that is sold quickly.
+What is debt?
+Pieces of paper that a firm will issue as a loan agreement.
+What are equity shares?
+Stock certificates that a firm will sell for financing.
+What is a current liability?
+Short term debt.
+What is capital structure? 
+Proportion of financing from current and long-term debt and equity.
+What is net working capital?
+Current assets minus current liabilities.
+What is a sole proprietorship?
+A business owned by one person.
+What is a partnership?
+When two or more people get together to form a business.
+What is a general partnership?
+Both partners are liable for all debt and share all profit.
+What is a limited partnership?
+Limits the liability based on the cash provided by each partner.
+What is a corporation?
+A distinct legal entity. 
+What is an LLC?
+Hybrid of a partnership and a corporation.
+What is the goal of financial management?
+To maximize the current value per share of the existing stock.
+What is an agency problem?
+The possibility of conflict between the agent and the principle.
+What are agency costs?
+The costs of conflict of interest between management and stockholders.
+Who is a stakeholder?
+Someone who has a claim on the cash flows of the firm.
+What is the balance sheet?
+A snapshot of a firm’s accounting value.
+What is the accounting equation of the balance sheet?
+Assets = Liabilities + Stockholders’ Equity
+What is liquidity?
+The ease and quickness of converting assets to cash.
+What is stockholders’ equity?
+Assets – Liabilities 
+What is book value?
+The accounting value of a firm’s assets.
+What is market value?
+The price buyers and sellers would agree on.
+What is the income statement?
+Measures performance over a specific period of time.
+What is the accounting equation of income?
+Revenue – Expenses = Income
+What does EBIT stand for?
+Earnings before interest and taxes.
+What is depreciation?
+The accountant’s estimate of the depletion of equipment from production.
+How is the average tax rate calculated?
+Your tax bill divided by your taxable income.
+What is the marginal tax rate?
+Tax percent you would pay if you earned one more dollar.
+What is net working capital?
+Current assets – Current liabilities
+What is the value of the firm in finance?
+Its ability to generate financial cash flow.
+What is capital spending?
+Ending net fixed assets – Beginning net fixed assets + Depreciation
+What is cash flow paid to creditors?
+Interest paid – Net new borrowing
+What is cash flow to stockholders?
+Dividends paid – Net new equity raised
+What does free cash flow refer to?
+Cash that the firm is free to distribute to creditors and stockholders.
+What are common-size statements?
+One common way to standardize financial statements.
+What are financial ratios?
+A way to compare and investigate the relationship between financial information.
+What is the current ratio?
+Current assets divided by Current liabilities.
+What is the quick ratio?
+Current assets minus Inventory, divided by Current liabilities.
+What is the cash ratio?
+Cash divided by Current liabilities.
+What is the total debt ratio?
+Total assets minus Total equity, divided by Total assets.
+What is the debt-equity ratio?
+Total debt divided by Total equity.
+What is the equity multiplier ratio?
+Total assets divided by Total equity.
+What is the times interest earned ratio?
+EBIT divided by Interest.
+What is total asset turnover?
+Sales divided by Total assets.
+What is profit margin?
+Net income divided by Sales.
+What is EBITDA?
+A measure of before-tax operating cash flow.
+What is return on assets (ROA)?
+Net income divided by Total assets.
+What is return on equity (ROE)?
+Net income divided by Total equity.
+What is earnings per share (EPS)?
+Net income divided by Shares outstanding.
+What is the price-earnings (PE) ratio?
+Price per share divided by Earnings per share.
+What is the Market-to-book ratio?
+Market value per share divided by Book value per share.
+What is the dividend payout ratio?
+Cash dividends divided by Net income.
+What is the plowback ratio?
+Addition to retained earnings divided by Net income.
+What is the internal growth rate?
+The rate the firm can maintain with internal financing only.
+What is the sustainable growth rate?
+The maximum rate of growth a firm can maintain without increasing financial leverage.
+What is future value?
+The value of a sum after investing over one or more periods.
+What is present value?
+The money you have today.
+What is net present value of investment?
+Cost of land today + present value of next year’s sales price.
+What is compounding?
+Continuing to lend money in the financial market.
+What is compound interest?
+When each interest payment is reinvested.
+What is discounting?
+Calculating the present value of a future cash flow.
+What is the present value factor?
+The factor used to calculate the present value of a future cash flow.
+What is the stated annual interest rate?
+The annual interest rate without consideration of compounding.
+What is continuous compounding?
+To compound every infinitesimal instant.
+What is perpetuity?
+A constant stream of cash flows without end.
+What is an annuity?
+A level stream of regular payments that lasts for a fixed number of periods.
+What is growing annuity?
+A finite number of growing cash flows.
+What is a fixed asset?  
+Assets that will last a long time, such as buildings.
+What is an example of a tangible asset? 
+Machinery and equipment
+What is an example of an intangible asset? 
+Patents and trademarks
+What is a current asset? 
+Assets with short lives, such as inventory.
+What is a sole proprietorship? 
+A business owned by one person
+What is a partnership? 
+Two or more people who own a business.
+What is a general partnership?
+All partners agree to provide some fraction of the work and cash and to share the profits and losses.
+What is a limited partnership?
+This partnership permits the liability of some of the partners to be limited to the amount of cash each has contributed to the partnership.
+What is a balance sheet? 
+A snapshot of a firm’s accounting value the accountant uses for a particular date, as though the firm stood momentarily still.
+What is liquidity? 
+This refers to the ease and quickness with which assets can be converted to cash.
+What is accounts receivable? 
+These are amounts not yet collected from customers for goods or services sold to them.
+What is Inventory? 
+Inventory is comprised of raw materials to be used in products, work in process, and finished goods.
+What are liabilities?
+Obligations of the firm that require a payout of cash within a stipulated period.
+What is a short run period?
+It is the period in which certain equipment, resources, and commitments of the firm are fixed.  
+What is your average tax rate?  
+Your tax bill divided by your taxable income.
+What is net working capital? 
+Current assets minus current liabilities
+How do you calculate capital spending?
+Ending net fixed assets – beginning net fixed assets
+What is operating cash flow?
+Earnings before interest plus depreciation minus taxes, which measures the cash generated from operations not counting capital spending or working capital requirements.
+How do you compute the current ratio? 
+Current assets/current liabilities
+How do you compute the quick ratio?
+Current assets-inventory / current liabilities
+How do you compute the cash ratio? 
+Cash/current liabilities
+How do you compute the total debt ratio? 
+Total assets – total equity / total assets.
+How do you compute times interest earned ratio? 
+EBIT / Interest
+How do you compute the inventory turnover? 
+Cost of Goods Sold / Inventory
+How do you compute the receivables turnover? 
+Sales / Accounts Receivable 
+How do you compute the total asset turnover? 
+Sales/Total assets
+How do you compute the profit margin? 
+Net income/Sales
+How do you compute return on assets? 
+Net income/ total assets
+How do you compute return on equity? 
+Net income / total equity
+How do you compute market capitalization? 
+Price per share x shares outstanding
+What is the use of using the percentage of sales approach? 
+The goal is to develop a quick and practical way of generating pro forma statements.
+What is another statement for future value (FV)? 
+Compound value
+What is a finite number of growing cash flows? 
+Growing Annuity
+What is capital budgeting? 
+The decision making process for accepting or rejecting projects.
+When do we accept a project while look at the NPV? 
+If the NPV is greater than zero
+When do we reject a project while looking at the NPV? 
+If the NPV is less than zero
+What is the first problem with the payback period? 
+Timing of cash flows within the payback period
+What is the second problem with the payback period? 
+Payments after the payback period?
+What is the third problem with the payback period? 
+Arbitrary standard for payback period.
+What is another method that decision makers use instead of the payback method?
+Discounted payback method
+What does IRR stand for? 
+Internal Rate of Return
+When do we accept a project while looking at IRR? 
+If the IRR is greater than the discount rate
+When do we reject a project while looking at IRR? 
+If the IRR is less than the discount rate
+What’s an independent project? 
+One whose acceptance or rejection is independents of the acceptance or rejection of other projects
+What is the modified IRR method?  
+It handles the multiple IRR problem by combining cash flows only one change in sign remains
+When is two or more project mutually exclusive? 
+They are mutually exclusive if the firm can accept only one of them.
+When calculating NPV what cash flows should only be used? 
+Cash flows that are incremental to the project
+What is a sunk cost? 
+A cost that has already occurred
+What is an opportunity cost? 
+A cost that a firm takes which forgoes other opportunities for using the assets.
+What is erosion? 
+Erosion occurs when a new product reduces the sales, and, hence the cash flows of existing products.
+What is synergy? Synergy occurs when a new product increases the cash flows of existing products.
+What is net working capital? 
+Net working capital is the difference between current assets and current liabilities.
+What is the name of the two books that U.S. firms keep? 
+Tax books & stockholders’ books
+Who is the tax book for? 
+The IRS uses this one
+What is the stockholders’ book for? 
+For the firms annual reports
+What is the nominal cash flow? 
+Actual dollars to be received or paid out.
+What is the real cash flow? 
+Cash flow’s purchasing power.
+What rate must nominal cash flows be discounted at? 
+Nominal rate
+What rate must real cash flows be discounted at? 
+Real rate
+What is the Top-Down approach? 
+Starting at the top of the income statement and work our way down to cash flow by subtracting costs, taxes, and other expenses.
+What is the Bottom-Up approach? 
+Starting at the bottom line (net income) and add back any non-cash deductions such as depreciation.
+What is the capital gain or loss? 
+Change in price of the stock divided by the initial price.
+How do you calculate the average or mean of a frequency distribution? 
+Add up all of the values and divide by the total number.
+What is the most common measure of variability or dispersion? 
+The variance and its square root, the standard deviation.
+What is a eurobond?
+A bond issued in multiple countries but denominated in a single currency, usuaslly the issuers home country
+What is a foreign bond?
+A bond issued in a single country and are usually demoninated in that countries currency.
+What does a put bond allow the holder to do?
+It allows the holder to force the issuer to buy the bond back at stated price
+What does a CAT bond stand for?
+Catastrophe bond
+What is an indenture?
+An agreement between borrowers and its creditors
+What is preferred stock?
+Preferred stock has a preference over common stock in the payment of dividends and in the distribution of corporation assets in the event of liquidation.
+What is the expected return?
+Return that an individual expects a stock to earn over the next period.
