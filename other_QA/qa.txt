@@ -310,3 +310,11 @@ What is the effect of trading on margin?
 It increases your gains and losses.
 How do you calculate your margin percent?
 It is defined as equity divided by the market value of the position.
+Who lends you the money to buy on margin?
+It is a loan made to you by your broker.
+Why do brokers offer margin?
+They charge you interest on the loan.
+What is a margin call?
+When your margin percent falls below a certain level you have to add cash or your broker will close your position.
+Is the margin loan safe for your broker?
+Yes, the collateral is the stock.
