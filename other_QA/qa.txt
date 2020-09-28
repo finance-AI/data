@@ -318,3 +318,33 @@ What is a margin call?
 When your margin percent falls below a certain level you have to add cash or your broker will close your position.
 Is the margin loan safe for your broker?
 Yes, the collateral is the stock.
+What type of risk does diversification reduce?
+Diversification reduces market risk.
+How long have options been traded?
+Options have been traded for hundreds of years.
+How long have futures been traded?
+Futures have been traded for thousands of years.
+What are STRIPs?
+Zero coupon bonds created from Treasury securities.
+What does NPV stand for?
+It stands for Net Present Value.
+Are the terms of a call option adjusted for a cash dividend?
+No the terms are not adjusted.
+What is Apple Inc's ticker symbol.
+It is AAPL.
+What is Nvidia's ticker symbol.
+It is NVDA.
+What is Exxon's ticker symbol.
+It is XOM.
+What is Microsoft's ticker symbol.
+It is MSFT.
+What is Tesla's ticker symbol.
+It is TSLA.
+What is Ford's ticker symbol.
+It is F.
+What is AMD's ticker symbol.
+It is AMD.
+What are sector funds?
+Stock or bond funds which invest in a particular sector of the economy.
+
+
