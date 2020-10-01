@@ -346,5 +346,9 @@ What is AMD's ticker symbol.
 It is AMD.
 What are sector funds?
 Stock or bond funds which invest in a particular sector of the economy.
-
-
+What type of risk does diversification reduce?
+Diversification reduces systematic risk.
+What is the goal of financial management?
+The goal of financial management is to maximize shareholder wealth.
+Simply put, what is a bond?
+A bond is a promise to pay interest, and repay principal, according to some set schedule.
