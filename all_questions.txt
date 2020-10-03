@@ -3,7 +3,7 @@ Short term, highly liquid government securities issued at a discount from the fa
 What is financial engineering?
 The use of mathematical models and computer-based trading technology to synthesize new financial products.
 What is the bid-ask spread?
-The difference between the asked and bid price, which is the dealers's source of profit.
+The difference between the asked and bid price, which is the dealers' source of profit.
 What does a bankers' acceptance start as?
 It starts as an order to a bank by an bank's customer to pay a sum of money at a future date, typically within 6 months.
 Who are municipal bonds issued by?
@@ -11,11 +11,11 @@ State and local governments.
 What is preferred stock?
 Has features similar to both equity and debt and promises to pay to its holder a fixed amount of income each year.
 What is a long position?
-A position held by the trader who commits to delivering the asset at contract mauturity.
+A position held by the trader who commits to delivering the asset at contract maturity.
 What is a brokered market?
 Markets where trading in a good is active, brokers find it profitable to offer search services to buyers and sellers.
 What is a program trade?
-a coordinated purchase or sale of an entire portfolio.
+A coordinated purchase or sale of an entire portfolio.
 What does equity funds invest in?
 Primarily in stock.
 Where does global funds invest?
@@ -37,9 +37,9 @@ A specific form of framing in which people segregate certain decisions.
 Who is the Dow Theory named after?
 Charles Dow
 What is the confidence index?
-The ratio of the average yield on 10 top-rated corporate bonds divided by the average yield on 10 intermdeiate-grade corporate bonds.
+The ratio of the average yield on 10 top-rated corporate bonds divided by the average yield on 10 intermediate-grade corporate bonds.
 What is a bond?
-A secuirty that is issued in connection with borrowing arrangement.
+A security that is issued in connection with borrowing arrangement.
 Yield to maturity is calculated on what assumption?
 That the bond will be held until maturity.
 Original- issue discount bonds are?
@@ -50,7 +50,7 @@ What is a cash flow- to- debt ratio?
 The ratio of total cash flow to outstanding debt.
 What is a short rate?
 The interest rate for the interval available at different points in time.
-Is the liquidiyt premium predicted to be negative or positive?
+Is the liquidity premium predicted to be negative or positive?
 Positive.
 What is a term premium?
 The spread between yields on long- and short- term bonds.
@@ -59,17 +59,17 @@ The weighted average of the times to each coupon or principal payment made by th
 What does future options give you the right to do?
 It gives their holder the right to buy or sell a specific futures contract, using as a futures price the exercise price of the option.
 What does a put option do? 
-It goves you the right to sell an asset at the exercise price.
+It gives you the right to sell an asset at the exercise price.
 What is a covered call?
 The purchase of a share of stock with a simultaneous sale of a call on that stock.
 What is a spread?
-A combination of two or more call options on the same stock with different exercise proces or times to maturity. 
+A combination of two or more call options on the same stock with different exercise process or times to maturity. 
 What is a collar?
-An option styrategy that brackets the value of a portfolio between two bounds.
+An option strategy that brackets the value of a portfolio between two bounds.
 What is a long straddle?
 Established by buying both a call and a put on a stock, each with the same exercise price.
 What is the binomial model?
-The probability of each outcome is described by the bonimial distribution.
+The probability of each outcome is described by the binomial distribution.
 What is a option's hedge ratio?
 The change in the price of an option fora 1$ increase on the stock price.
 What is a stop-loss order?
@@ -77,7 +77,7 @@ A sell order to be executed if the price of the stock falls below a stipulated l
 What is utility?
 The measure of the welfare or satisfaction of an investor.
 What is volatility risk?
-The risk in the value of options portfolios due to unpredictable changes in the volatility of the underlyind asset. 
+The risk in the value of options portfolios due to unpredictable changes in the volatility of the underlying asset. 
 What are real assets?
 Real assets are land, buildings, machines, and knowledge that can be used to produce goods and services. 
 What are financial assets?
@@ -133,7 +133,7 @@ An example of a market-value-weighted index is the S&P 500.
 What is a dealer market?
 A dealer market is a market where a dealer buys and sells stock to other investors.
 How does a dealer make money?
-Dealers make money throught the bid-ask spread.
+Dealers make money throughout the bid-ask spread.
 What is a market order?
 A market order is an order that is to be executed immediately at the market price.
 What is a limit order?
@@ -153,7 +153,7 @@ An option is out of the money when exercising it would create a loss.
 When is an option at the money?
 An option is at the money when its exercise and stock price are the same.
 What is the difference between an American option and a European option?
-The difference is that an American option can be exercised anytime on or before the expiration date while a European option can only be exercised on its experation date.
+The difference is that an American option can be exercised anytime on or before the expiration date while a European option can only be exercised on its expiration date.
 What is a convertible bond?
 A convertible bond is bond that the owner has the ability to convert to the companies stock at a set price.
 Why would an investor enter into a straddle position?
@@ -169,7 +169,7 @@ After learning the ropes of investing, would be a beneficial time to start to in
 What is time-value of money?
 Inflation causes funds to be worth more over time. A simple time value of money calculation determines how much funds will be worth in the future. 
 What is the difference between corporate and personal finance?
-Corporate finance deals with the analyzation and investment decisions of a business, and personal finance deals more with the one on one client meetings in hopes of conducting personal financial planning relationships. 
+Corporate finance deals with the analysis and investment decisions of a business, and personal finance deals more with the one on one client meetings in hopes of conducting personal financial planning relationships. 
 What are the components of personal financial planning?
 Cash budgeting, income tax planning, insurance, investments, retirement planning, and estate planning. 
 What is a key element to debt management?
@@ -375,7 +375,7 @@ What is portfolio insurance?
 What is gamma?
 It is the sensitivity of the delta to the stock price.  
 What does it mean if your portfolio is delta neutral?  
-This means that the portfolio has no tendency to either increase or decrease in value when the stock price flucuates.  
+This means that the portfolio has no tendency to either increase or decrease in value when the stock price fluctuates.  
 What is volatility risk?  
 It is the risk incurred from unpredictable changes in volatility.  
 What is a futures contract?
@@ -430,7 +430,7 @@ The futures contracts call for delivery of a commodity at a specified delivery o
 Futures price
 What is the maintenance margin?
 If a trader accrues sustained losses from daily marking to market, the margin account may fall below a critical value called a maintenance margin.
-What is the Black Scholes Model?
+What is the Black-Scholes Model?
 a model of price variation over time of financial instruments such as stocks that can, among other things, be used to determine the price of a European option. 
 What is the Monte Carlo simulation?
 it is used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. 
@@ -485,19 +485,19 @@ A residual claim to get anything left over
 What is a derivative security?
 A contingent claim; value is derived from something else
 What is consumption timing?
-trying to spread consumption over a period of time
+Trying to spread consumption over a period of time
 What is financial engineering?
 Trading constructed to provide specific payoff 
 What is the definition of cash?
 A medium of exchange and it effectively stores value
 Why does the government issue treasury bills?
-so that companies can use them as cash
+So that companies can use them as cash
 What does bid price mean?
-dealers buy at this price, investors sell
+Dealers buy at this price, investors sell
 What does ask price mean?
-dealers sell at this price, investors buy
+Dealers sell at this price, investors buy
 What is a market order?
-buy or sell a stock now 
+Buy or sell a stock now 
 What is a book transaction?
 When you trade over 10,000 shares and want to split the order up so you don't signal your intentions
 What is shorting?
@@ -515,7 +515,7 @@ Someone who thinks they're an informed buyer, but they're not really informed
 What is a maintenance margin?
 An amount set by brokers to limit their loss
 What are the negative effects of a mutual fund?
-active management and high costs outweigh the benefits
+Active management and high costs outweigh the benefits.
 What is a hedge fund?
 An unregulated pool of capital uncorrelated with the market
 What is a fiduciary duty?
@@ -535,7 +535,7 @@ When stock price is greater than strike price
 When is a put profitable? 
 When strike price is greater than stock price
 What is a benefit of an option?
-gives the average position on stock insurance and limits loss
+An option gives the average position on stock insurance and limits loss.
 When would you buy stock to match the change in a put?
 When stock price increases and the change in price equals zero
 when would you sell stock to match a change in a put?
@@ -561,7 +561,7 @@ Issued by the company and acts like a call option
 What is a call option?
 Provides the owner the right to buy asset at a set price on (or before) expiration
 What is a put option?
-Provieds the owner the right to sell asset at set price on (or before) expiration
+A put option provides the owner the right to sell asset at set price on (or before) expiration
 What is the difference between an American and European option?
 An American option provides the owner to exercise the option on or before the expiration, whereas, an European option must be excercised on the expiration date
 When is an option considered in the money?
@@ -571,7 +571,7 @@ Intrinsic value- Premium
 Can an American option premium be less than the options intrinsic value?
 No, people will buy and sell immediately 
 What are the three types of traders?
-Infromed, liquidity, noise
+Informed, liquidity, noise traders.
 What type of traders do brokers want in the market?
 Noise
 What is a Protective Put? 
@@ -593,7 +593,7 @@ An option- valuation model predicated on the assumption that stock prices can mo
 What is the bid-asked spread?
 The difference between a dealer's bid and asked price
 What is the bid price?
-the price at which a dealer is willing to purchase a security
+The price at which a dealer is willing to purchase a security
 What is bogey?
 The return an investment manager is compared to for performance evaluation
 What  is bond indenture?
@@ -611,11 +611,11 @@ An agreement calling for future delivery of an asset at an agreed-upon price
 What is gamma?
 The curvature of an option pricing function
 What is a hedge fund?
-A private investment pool, open to institutional or wealthy investors, that is largely exepmt from the SEC regulations 
+A private investment pool, open to institutional or wealthy investors, that is largely exempt from the SEC regulations 
 What is hedging?
 Investing in an asset to reduce the overall risk of a portfolio
 What is pairs trading?
-Stocks are paired up based on underlying similarites, and longshorts positions are established to exploit any relative mispricing between each price
+Stocks are paired up based on underlying similarities, and long-shorts positions are established to exploit any relative mispricing between each price
 What is proxy?
 An instrument empowering an agent to vote in the name of the shareholders?
 What is a risky asset?
@@ -627,7 +627,7 @@ An event that influences production capacity and costs in the economy
 What is a underwriter?
 Investment bankers who help companies issue their securities to the public
 You buy a stock for $100 and buy a put with a 90 strike for $3, what is the max gain?
-unbounded
+The max gain is unbounded.
 You buy stock for $100, sell call with $110 strike for $3 and buy a put with $90 strike for 4 dollars, what is the breakeven?
 $101
 You buy a 100 call for $3 and buy a 100 put for $4, what is the breakeven?
@@ -687,9 +687,9 @@ A fiduciary is an entity that has the legal obligation to work on your clients b
 Why might a mutual fund buy/sell a lot?
 The market maker/ broker will make a lot of money. 
 Are call options lower or higher when stock prices go up?
-lower.
+Lower.
 Are put options higher or lower when stock prices go up?
-higher.
+Higher.
 If the intrinsic value of an option is greater than 0, is it at, in or out of the money?
 In the money.
 If the intrinsic value of an option is less than 0, is it at, in or out of the money?
@@ -967,7 +967,7 @@ Machines, land, buildings, knowledge, etc.
 What is a derivative security?
 A security that derives its value from something else, such as another security.
 What do free markets do?
-Free markets take infomration and put it into prices, which affects your behavior, thus organizing the way our society functions.
+Free markets take information and put it into prices, which affects your behavior, thus organizing the way our society functions.
 What do efficient markets do?
 Efficient markets quickly and accurately incorporate information into the market.
 What do inefficient markets do?
@@ -1111,7 +1111,7 @@ Increased volatility.
 What is Monte Carlo used for?
 Used to model the probability of different outcomes in a process that cannon easily be predicted due to the intervention of random variables. 
 What is a speculator?
-A person who trades derivatives, commodities, bonds, equities, or curriencies with a higher than average risk in return for a higher-than-average profit potential. Very important to the market. 
+A person who trades derivatives, commodities, bonds, equities, or currencies with a higher than average risk in return for a higher-than-average profit potential. Very important to the market. 
 What is the result if a crack spread is positive?
 The price of the refined products is higher than of crude oil, the raw material and spread is profitable. 
 If stock has a high beta, what happens to the stock price?
@@ -1138,11 +1138,11 @@ For a straddle option when will maximum loss occur?
 Maximum loss will occur when the price of the underlying equals the strike price of long call/put.
 What is the delta for a put option?
 The delta for a put option is always negative.
-what is an informed trader?
+What is an informed trader?
 An informed traded is someone who knows something about the market that the market does not yet know.
 What is a noise trader?
 Someone who thinks they are an informed trader but really do not know anything that the market does not already know.
-what is a market maker?
+What is a market maker?
 What o hosts the bids and ask prices in the market.
 Why does the market maker try and create noisemakers?
 The market maker is able to make the most money off of noise traders
@@ -1183,7 +1183,7 @@ premium for large numbers of shares.
 Does the market give or take liquidity?
 Take
 Can informed traders beat the market maker?
-yes.
+Yes.
 What is opened ended funds?
 Trade for net asset value.
 What is closed end funds?
@@ -1196,8 +1196,8 @@ Do stop losses guarantee limited losses
 No
 What is a warrant?
 Like a call option but issued from a company.
-What is an IPO
-Initial public offering. When a company offers stock for the first time 
+What is an IPO?
+Initial public offering. When a company offers stock for the first time.
 Why do we use derivative structures?
 To manage risk 
 If the FED wants to increase the money supply do they buy or sell treasuries?
@@ -1205,19 +1205,19 @@ Sell
 If the tax rate is lowered what happens to the ability of municipalities to finance debt?
 It becomes harder form them because it now requires a higher yield.
 Will leverage decrease the value of debt in the books?
-yes 
+Yes 
 If the discount rate goes up, what happens to the value of the bond?
 It goes down.
-Is deration a measure of time?
+Is duration a measure of time?
 No, it measures the bonds interest rate risk
-If the coupon rate in a bind decreases what happens to the deration?
-it will go up. 
+If the coupon rate in a bind decreases what happens to the duration?
+It will go up. 
 Can you create a CDO without buying actual securities?
-yes
+Yes
 what does the FED do?
-control interest rates and money supply, Regulations, and economic reporting
+Control interest rates and money supply, Regulations, and economic reporting
 What is short selling a stock?
-when you bet against the stock, making money when it goes down.
+When you bet against the stock, making money when it goes down.
 What do margins do to the gains and losses of a stock
 A margin magnifies gains and losses of a stock.
 What is a bank rate?
@@ -1307,7 +1307,7 @@ Beta is a measurement of risk.
 What is a way to reduce risk in a portfolio?
 Diversification.
 What is financial engineering?
-Financial engineering is a way of maniuplating combinations of bonds and stocks to get a desired return.
+Financial engineering is a way of manipulating combinations of bonds and stocks to get a desired return.
 How many times is a corporation taxed?
 A corporation is taxed twice.
 Where does a market order take liquidity from?
@@ -1339,7 +1339,7 @@ The primary market is where new securities are usually issued to the public.
 What is the secondary market?
 The secondary market is where investors can trade previously issued securities.
 What does securitization of mortgages mean?
-It means that mortgages can be traded like secutiries.
+It means that mortgages can be traded like securities.
 What are pass-through securities?
 Pass-through securities are securities that take individual home mortgages and put them in a homogeneous pool.
 What is the ask price?
@@ -1361,7 +1361,7 @@ An IPO, or initial public offering, is when a firm that was private decides to s
 What is an auction market?
 An auction market is where all traders converge to buy or sell securities.
 What is a direct market search?
-When the buyer and seller have to seek eachother out directly.
+When the buyer and seller have to seek each other out directly.
 What is a limit order book?
 A limit order book is a collection of all limit orders waiting to be executed.
 What is a stop order?
@@ -6764,4 +6764,7 @@ What is the goal of financial management?
 The goal of financial management is to maximize shareholder wealth.
 Simply put, what is a bond?
 A bond is a promise to pay interest, and repay principal, according to some set schedule.
-
+How do you define money?
+Money is a medium of exchange and a store of value.
+What is a liquid asset?
+An asset which you can quickly sell without discounting its value.
