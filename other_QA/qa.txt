@@ -352,3 +352,19 @@ What is the goal of financial management?
 The goal of financial management is to maximize shareholder wealth.
 Simply put, what is a bond?
 A bond is a promise to pay interest, and repay principal, according to some set schedule.
+What are eurodollars?
+US Dollar denominated accounts outside the US.
+What is a Catastrophe bond?
+A bond which stops paying interest and principal if some specified event occurs.
+What is the real interest rate?
+The change in purchasing power.
+What is the nominal interest rate?
+The change in the amount of dollars.
+If you increase the discount rate, what happens to present values?
+Present values decrease.
+If you decrease the discount rate, what happens to present values?
+Present values increase.
+If you increase the interest rate, what happens to future values?
+Future values increase.
+If you decrease the interest rate, what happens to future values?
+Future values decrease.
