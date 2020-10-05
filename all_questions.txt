@@ -6782,4 +6782,13 @@ What is equity?
 Ownership and a residual claim on firm income.
 What is the DuPont Identity?
 The product of profit margin, total asset turnover, and the equity multiplier.
-
+When do you buy a straddle option spread?
+When you expect the underlying will be more volatile than the markets expects.
+When do you sell a straddle option spread?
+When you expect the underlying will be less volatile than the markets expects.
+When do you buy a bull call option spread?
+When you expect the underlying to increase prior to expiration.
+When do you sell a bull call option spread?
+When you expect the underlying to not increase prior to expiration.
+What is a callable bond?
+It is equivalent to buying a bond and selling the issuing company a call option on the bond.
