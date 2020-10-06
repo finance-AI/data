@@ -71,7 +71,7 @@ Established by buying both a call and a put on a stock, each with the same exerc
 What is the binomial model?
 The probability of each outcome is described by the binomial distribution.
 What is a option's hedge ratio?
-The change in the price of an option fora 1$ increase on the stock price.
+The change in the price of an option for a 1$ increase on the stock price.
 What is a stop-loss order?
 A sell order to be executed if the price of the stock falls below a stipulated level.
 What is utility?
@@ -423,7 +423,7 @@ It's a loan arrangement that requires the borrower to put up collateral to guara
 Describe a warrant.
 Basically, a call option issued by a firm.
 What is portfolio insurance?
-a method of hedging a portfolio of stocks against the market risk by short selling stock index futures.
+A method of hedging a portfolio of stocks against the market risk by short selling stock index futures.
 What is the volatility risk of a stock?
 It is risk that is incurred from unpredictable changes in volatility.  
 The futures contracts call for delivery of a commodity at a specified delivery or maturity date, for an agreed-upon price called?
@@ -431,9 +431,9 @@ Futures price
 What is the maintenance margin?
 If a trader accrues sustained losses from daily marking to market, the margin account may fall below a critical value called a maintenance margin.
 What is the Black-Scholes Model?
-a model of price variation over time of financial instruments such as stocks that can, among other things, be used to determine the price of a European option. 
+A model of price variation over time of financial instruments such as stocks that can, among other things, be used to determine the price of a European option. 
 What is the Monte Carlo simulation?
-it is used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. 
+It is used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. 
 What are futures and forward contracts?
 Are like options in that they specify purchase or sale of some underlying security at some future date. 
 What is the basis risk in hedging?
@@ -1143,7 +1143,7 @@ An informed traded is someone who knows something about the market that the mark
 What is a noise trader?
 Someone who thinks they are an informed trader but really do not know anything that the market does not already know.
 What is a market maker?
-What o hosts the bids and ask prices in the market.
+A market participant who must post bids and ask prices in the market.
 Why does the market maker try and create noisemakers?
 The market maker is able to make the most money off of noise traders
 what is a liquidity trader?
@@ -1158,7 +1158,7 @@ The owner has the right to buy an asset at a set price on or before the expirati
 What is a put option?
 The owner has the right to sell an asset at the set price on or before the expiration date.
 What increments can option contracts be bought in?
-100's
+100 underlying shares.
 Should convertible bonds yield be higher or lower than a straight bond?
 Lower
 What is a convertible bond?
@@ -6792,3 +6792,19 @@ When do you sell a bull call option spread?
 When you expect the underlying to not increase prior to expiration.
 What is a callable bond?
 It is equivalent to buying a bond and selling the issuing company a call option on the bond.
+What is the ticker symbol for Delta Airlines?
+The ticker is DAL.
+What is the ticker symbol for AT&T?
+The ticker is T.
+What is the ticker symbol for Verizon?
+The ticker is VZ.
+What is the ticker symbol for Caterpillar?
+The ticker is CAT.
+What is the ticker symbol for Tesla?
+The ticker is TSLA.
+What is the ticker symbol for Devon Energy?
+The ticker is DVN.
+What does an asset's beta coefficient measure?
+The amount of systematic risk in the asset.
+
+
