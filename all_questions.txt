@@ -6806,5 +6806,11 @@ What is the ticker symbol for Devon Energy?
 The ticker is DVN.
 What does an asset's beta coefficient measure?
 The amount of systematic risk in the asset.
-
-
+What is the ticker symbol for Microsoft?
+The ticker is MSFT.
+What R package allows downloading stock data from Yahoo finance?
+The quantmod R package.
+What R package allows downloading energy data from the EIA?
+The EIAdata R package.
+What python library provides a dataframe data structure?
+The pandas library.
