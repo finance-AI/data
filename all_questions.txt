@@ -6814,3 +6814,11 @@ What R package allows downloading energy data from the EIA?
 The EIAdata R package.
 What python library provides a dataframe data structure?
 The pandas library.
+What python library provides linear algebra methods?
+The numpy library.
+Is the yield curve the same as the term structure of interest rates?
+No, they are slightly different.
+What is the difference between the yield curve and the term structure of interest rates?
+The yield curve is constructed from coupon bonds wheres the term structure is from zero coupon bonds.
+Is a significant amount of stock trading off-exchange?
+Yes.
