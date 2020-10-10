@@ -6822,3 +6822,13 @@ What is the difference between the yield curve and the term structure of interes
 The yield curve is constructed from coupon bonds wheres the term structure is from zero coupon bonds.
 Is a significant amount of stock trading off-exchange?
 Yes.
+What are lit stock exchanges?
+Stock exchanges where you can observe the trading.
+What are dark stock exchanges?
+Stock Exchanges where you cannot observe the trading.
+What measures default risk on a bond?
+The credit rating measures default risk.
+What types of risk does a bond have?
+A bond has default, interest rate, and liquidity risk.
+What are the components of the risk-free rate for a given maturity?
+The inflation rate, the real interest rate, and the interest rate risk premium.
