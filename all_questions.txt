@@ -6832,3 +6832,14 @@ What types of risk does a bond have?
 A bond has default, interest rate, and liquidity risk.
 What are the components of the risk-free rate for a given maturity?
 The inflation rate, the real interest rate, and the interest rate risk premium.
+What city is the main financial center in the USA?
+The main financial center is New York City.
+Is an option's payoff a nonlinear function of the underlying?
+Yes, the relationship is nonlinear.
+What is a puttable bond?
+A bond where the owner can sell it back to the company at a set price.
+What is a Catastrophe bond?
+A bond where the issuer stop paying interest and principal if some event occurs.
+Is the diversification benefit larger with higher, or lower, asset correlations?
+Does the CAPM assume asset returns follow the normal distribution?
+It assumes either the normal distribution or investors have quadratic utility.
