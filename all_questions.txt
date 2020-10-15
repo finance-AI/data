@@ -6843,3 +6843,13 @@ A bond where the issuer stop paying interest and principal if some event occurs.
 Is the diversification benefit larger with higher, or lower, asset correlations?
 Does the CAPM assume asset returns follow the normal distribution?
 It assumes either the normal distribution or investors have quadratic utility.
+What does ETF stand for?
+ETF stands for Exchange Traded Fund.
+What is an ETF?
+An ETF is an open-end fund which generally passively tracks an index.
+What does the SPY ETF track?
+The SPY ETF passively tracks the S&P 500 index.
+Why do firms issue financial statements?
+They are required in bond indentures and to list on stock exchanges.
+What is asymmetric information?
+When one person has more information than another.
