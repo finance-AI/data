@@ -6853,3 +6853,11 @@ Why do firms issue financial statements?
 They are required in bond indentures and to list on stock exchanges.
 What is asymmetric information?
 When one person has more information than another.
+What are current assets?
+Assets which will become cash in less than a year.
+What are current liabilities?
+Liabilities which must be paid in less than a year.
+What is a repo?
+Repo is short for a repurchase agreement.
+What is a repurchase agreement?
+It is an asset sale with agreement to repurchase; in effect a collateralized loan.
