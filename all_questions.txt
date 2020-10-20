@@ -6861,3 +6861,11 @@ What is a repo?
 Repo is short for a repurchase agreement.
 What is a repurchase agreement?
 It is an asset sale with agreement to repurchase; in effect a collateralized loan.
+What is commercial paper?
+Unsecured corporate debt with a maturity less than 270 days.
+How do you buy a protective put spread?
+But the stock and buy a put option with a lower strike price.
+What is the point of a protective put spread?
+To limit your potential losses when owning a stock.
+What does the FOMC stand for?
+It stands for the Federal Reserve's Open Market Committee.
