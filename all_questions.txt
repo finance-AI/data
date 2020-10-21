@@ -6869,3 +6869,17 @@ What is the point of a protective put spread?
 To limit your potential losses when owning a stock.
 What does the FOMC stand for?
 It stands for the Federal Reserve's Open Market Committee.
+How to you buy a covered call position?
+You buy the stock and sell a call option with a higher strike price.
+How do you buy a straddle options spread?
+You buy both a call and put option with the same strike and maturity.
+How do you sell a straddle options spread?
+You sell both a call and put option with the same strike and maturity.
+What do bond credit ratings measure?
+Bond credit ratings measure the amount of default risk in the bond.
+How do you calculate return on equity?
+Return on equity is net income divided by stockholders' equity.
+How do you calculate return on assets?
+Return on assets is net income divided by total assets.
+How do you calculate the DuPont Identity?
+The DuPont Identity is the product of profit margin, total asset turnover, and the equity multiplier.
