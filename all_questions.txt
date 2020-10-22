@@ -6883,3 +6883,15 @@ How do you calculate return on assets?
 Return on assets is net income divided by total assets.
 How do you calculate the DuPont Identity?
 The DuPont Identity is the product of profit margin, total asset turnover, and the equity multiplier.
+What does NPV stand for?
+NPV stand for Net Present Value.
+What does IRR stand for?
+IRR stand for Internal Rate of Return.
+What is the IRR?
+The discount rate such that the NPV is equal to zero.
+What is the ticker symbol for Pinterest?
+The ticker symbol is PINS.
+Using NPV, when do you accept the project?
+You accept the project when the NPV is greater than zero.
+Using IRR, when do you accept the project?
+You accept the project when the IRR is greater than the threshold rate.
