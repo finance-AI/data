@@ -6895,3 +6895,9 @@ Using NPV, when do you accept the project?
 You accept the project when the NPV is greater than zero.
 Using IRR, when do you accept the project?
 You accept the project when the IRR is greater than the threshold rate.
+What does OAS stand for?
+OAS stands for option-adjusted spread.
+What does CMO stand for?
+CMO stands for Collateralized Mortgage Obligation.
+If you submit a market buy order will you buy at the bid or ask?
+You will buy at the ask.
