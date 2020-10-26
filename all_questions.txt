@@ -6901,3 +6901,17 @@ What does CMO stand for?
 CMO stands for Collateralized Mortgage Obligation.
 If you submit a market buy order will you buy at the bid or ask?
 You will buy at the ask.
+What does YTM stand for?
+YTM stands for the yield-to-maturity.
+How do you calculate a bond's current yield?
+Divide the bond's annual coupon interest by the bond's price.
+What does APR stand for?
+APR stands for annual percentage rate.
+How to you calculate an APR?
+You multiple the rate per period by the number of periods in a year.
+What does EAR stand for?
+EAR stands for effective annual rate?
+How does a bank immunize its bond portfolio?
+It matches the duration and amount of its assets and liabilities.
+What effect does immunization have on a bank's portfolio?
+The value of the bank's portfolio is not affected by changes in interest rates.
