@@ -6915,3 +6915,9 @@ How does a bank immunize its bond portfolio?
 It matches the duration and amount of its assets and liabilities.
 What effect does immunization have on a bank's portfolio?
 The value of the bank's portfolio is not affected by changes in interest rates.
+What are STRIPs?
+Zero coupon bonds made from US Treasury securities.
+What does CAPM stand for?
+CAPM stands for the capital asset pricing model.
+In what do Venture Capitalists specialize?
+In making equity investments in start-up firms.
