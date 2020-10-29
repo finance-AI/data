@@ -6921,3 +6921,14 @@ What does CAPM stand for?
 CAPM stands for the capital asset pricing model.
 In what do Venture Capitalists specialize?
 In making equity investments in start-up firms.
+Why do we trade volatility products such as the VIX?
+We trade them in order to hedge option portfolios.
+How do you calculate a firm's return on equity?
+Return on equity is net income divided by stockholders' equity.
+How do you calculate a firm's return on assets?
+Return on equity is net income divided by assets.
+What is the DuPont Identity?
+The DuPont Identity decomposes return on equity into the product of the profit margin, total asset turnover, and the equity multiplier.
+What is a benefit of issuing debt for a firm?
+The interest payments are tax deductable.
+
