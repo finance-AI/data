@@ -6931,4 +6931,15 @@ What is the DuPont Identity?
 The DuPont Identity decomposes return on equity into the product of the profit margin, total asset turnover, and the equity multiplier.
 What is a benefit of issuing debt for a firm?
 The interest payments are tax deductable.
-
+What government agency regulates US stock trading?
+The Securities and Exchange Commission.
+What does SEC stand for?
+The Securities and Exchange Commission.
+What government agency regulates commodities futures trading in the US?
+The Commodities Futures Trading Comission.
+What is the ticker symbol for Crude Oil on the NYMEX?
+The ticker is CL.
+What does NYMEX stand for?
+NYMEX stands for the New York Mercantile Exchange.
+What is the ticker symbol for Natural Gas on the NYMEX?
+The ticker is NG.
