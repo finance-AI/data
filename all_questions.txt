@@ -6943,3 +6943,9 @@ What does NYMEX stand for?
 NYMEX stands for the New York Mercantile Exchange.
 What is the ticker symbol for Natural Gas on the NYMEX?
 The ticker is NG.
+What does LIBOR stand for?
+LIBOR stands for the London Interbank Offer Rate.
+What is bond seniority?
+It is the order of payment in the case of default.
+What is a pairs trade?
+It is a bet on the relative performance of two assets.
