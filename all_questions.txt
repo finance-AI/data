@@ -6936,7 +6936,7 @@ The Securities and Exchange Commission.
 What does SEC stand for?
 The Securities and Exchange Commission.
 What government agency regulates commodities futures trading in the US?
-The Commodities Futures Trading Comission.
+The Commodities Futures Trading Commission.
 What is the ticker symbol for Crude Oil on the NYMEX?
 The ticker is CL.
 What does NYMEX stand for?
@@ -6949,3 +6949,13 @@ What is bond seniority?
 It is the order of payment in the case of default.
 What is a pairs trade?
 It is a bet on the relative performance of two assets.
+What is deposit insurance?
+The FDIC charges a fraction on deposits and in return insures some deposits against bank failure.
+Why are returns often assumed to be normally distributed in finance?
+Primarily because normal distributions are easy to add and multiply with other normal distributions.
+How do you calculate a firm's profit margin?
+Profit margin is net income divided by sales.
+How do you calculate a firm's current ratio?
+The current ratio is current assets divided by current liabilities.
+How do you calculate a firm's quick ratio?
+The quick ratio is current assets minus inventory, then divided by current liabilities.
