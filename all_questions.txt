@@ -6959,3 +6959,15 @@ How do you calculate a firm's current ratio?
 The current ratio is current assets divided by current liabilities.
 How do you calculate a firm's quick ratio?
 The quick ratio is current assets minus inventory, then divided by current liabilities.
+How do you calculate a firm's equity multiplier?
+The equity multiplier is one plus the debt to equity ratio.
+How do you calculate a firm's times-interest-earned ratio?
+The times-interest-earned ratio is EBIT divided by interest.
+What does EBIT stand for?
+EBIT stands for earnings before interest and taxes. 
+How do you calculate inventory turnover?
+Inventory turnover is cost of goods sold divided by inventory.
+What does COGS stand for?
+COGS stands for cost of goods sold.
+What does SG&A stand for?
+COGS stands for selling, general, and administrative expenses.
