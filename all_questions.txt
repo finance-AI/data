@@ -6970,4 +6970,16 @@ Inventory turnover is cost of goods sold divided by inventory.
 What does COGS stand for?
 COGS stands for cost of goods sold.
 What does SG&A stand for?
-COGS stands for selling, general, and administrative expenses.
+SG&A stands for selling, general, and administrative expenses.
+What does EVA stand for?
+EVA stand for enterprise value added.
+Where does net income go?
+Net income goes to either retained earnings or is paid as dividends.
+If the discount rate rises what happens to present values?
+Present values decline.
+If the discount rate rises what happens to future values?
+Future values increase.
+If the discount rate decreases what happens to present values?
+Present values increase.
+If the discount rate decreases what happens to future values?
+Future values decrease.
