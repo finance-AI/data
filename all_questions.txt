@@ -6983,3 +6983,11 @@ If the discount rate decreases what happens to present values?
 Present values increase.
 If the discount rate decreases what happens to future values?
 Future values decrease.
+How is a warrant different from a call option?
+When a warrant is exercised new stock is issued by the company.
+How is a collateralized loan similar to a put option?
+The borrower can choose to not pay, and put the collateral to the lender.
+What is the only type of cash flows do we consider when capital budgeting?
+We only consider incremental cash flows.
+Are sunk costs incremental cash flows?
+No, sunk costs must be paid regardless.
