@@ -6991,3 +6991,13 @@ What is the only type of cash flows do we consider when capital budgeting?
 We only consider incremental cash flows.
 Are sunk costs incremental cash flows?
 No, sunk costs must be paid regardless.
+How do you calculate inventory turnover?
+Inventory turnover is COGS divided by inventory.
+How do you calculate the cash coverage ratio?
+The cash coverage ratio is the sum of EBIT and Depreciation divided by Interest.
+How do you calculate the times interest earned ratio?
+The times interest earned ratio is EBIT divided by interest.
+How do you calculate the quick ratio?
+The quick ratio is current assets, less inventory, divided by current liabilities.
+How do you calculate the cash ratio?
+The cash ratio is cash divided by current liabilities.
