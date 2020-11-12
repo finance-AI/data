@@ -7001,3 +7001,11 @@ How do you calculate the quick ratio?
 The quick ratio is current assets, less inventory, divided by current liabilities.
 How do you calculate the cash ratio?
 The cash ratio is cash divided by current liabilities.
+How do you calculate the plowback ratio?
+The plowback ratio is retained earnings divided by net income.
+How do you calculate the market risk premium?
+The market risk premium is the expected return on the market minus the risk free rate.
+What is the sustainable growth rate?
+The maximum rate at which a firm can grow without changing its capital structure.
+What is the internal growth rate?
+The maximum rate at which a firm can grow using only retained earnings.
