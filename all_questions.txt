@@ -7009,3 +7009,15 @@ What is the sustainable growth rate?
 The maximum rate at which a firm can grow without changing its capital structure.
 What is the internal growth rate?
 The maximum rate at which a firm can grow using only retained earnings.
+How do you calculate the current ratio?
+The current ratio is current assets divided by current liabilities.
+What type of investors focus on investing in early stage businesses?
+Venture capitalists invest in early stage businesses.
+How do you calculate total asset turnover?
+Total asset turnover is sales divided by assets.
+All else constant, if interest rates increase what will happen to stock prices?
+Stock prices will decline.
+All else constant, if interest rates increase what will happen to bond prices?
+Bond prices will decline.
+All else constant, if interest rates increase what will happen to present values?
+Present values will decline.
