@@ -7021,3 +7021,9 @@ All else constant, if interest rates increase what will happen to bond prices?
 Bond prices will decline.
 All else constant, if interest rates increase what will happen to present values?
 Present values will decline.
+When does a bond trade at a discount to par?
+When the bond's yield-to-maturity is greater than its coupon rate.
+When does a bond trade at a premium to par?
+When the bond's yield-to-maturity is less than its coupon rate.
+When does a bond trade at par?
+When the bond's yield-to-maturity is equal to its coupon rate.
