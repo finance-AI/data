@@ -7033,3 +7033,10 @@ Should you ever use the payback decision rule?
 Only for very small capital budgeting decisions.
 Does the payback decision rule take into account the risk of the cash flows?
 No, it does not.
+Are strategic options an important component of capital budgeting analyses.
+Typically, yes.
+What is cumulative preferred stock?
+Preferred stock where all past dividends must be paid before common stockholders receive a dividend.
+What is non-cumulative preferred stock?
+Preferred stock where only the latest dividend must be paid before common stockholders receive a dividend.
+## next question muci backed by collateral
