@@ -7027,3 +7027,9 @@ When does a bond trade at a premium to par?
 When the bond's yield-to-maturity is less than its coupon rate.
 When does a bond trade at par?
 When the bond's yield-to-maturity is equal to its coupon rate.
+Do you accept or reject the project if the NPV is greater than $0?
+You accept the project.
+Should you ever use the payback decision rule?
+Only for very small capital budgeting decisions.
+Does the payback decision rule take into account the risk of the cash flows?
+No, it does not.
