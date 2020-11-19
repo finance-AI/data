@@ -7039,4 +7039,12 @@ What is cumulative preferred stock?
 Preferred stock where all past dividends must be paid before common stockholders receive a dividend.
 What is non-cumulative preferred stock?
 Preferred stock where only the latest dividend must be paid before common stockholders receive a dividend.
-## next question muci backed by collateral
+What is a general-obligation municipal bond?
+A municipal bond backed by the general taxing power of the issuer.
+What is a revenue municipal bond?
+A municipal bond backed by the specific project it funded.
+What is a synthetic CDO?
+A CDO created through a structure of CDS.
+What does CDS stand for?
+CDS stands for Credit Default Swap.
+
