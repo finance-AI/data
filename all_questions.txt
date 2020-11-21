@@ -7047,4 +7047,11 @@ What is a synthetic CDO?
 A CDO created through a structure of CDS.
 What does CDS stand for?
 CDS stands for Credit Default Swap.
-
+How do you calculate a stock's price-to-earnings ratio?
+If EPS is positive, it is market price per share divided by EPS.
+What does EPS stand for?
+EPS stands for Earnings per Share.
+Does company have to pay dividends?
+No, a company has no obligation to pay dividends.
+What is the crush spread?
+The refining margin on soybeans.
