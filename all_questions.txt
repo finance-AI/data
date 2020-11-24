@@ -7055,3 +7055,11 @@ Does company have to pay dividends?
 No, a company has no obligation to pay dividends.
 What is the crush spread?
 The refining margin on soybeans.
+What is the functional relationship between asset volatility and time?
+Volatility increases at the square root of the time elapsed.
+Which editor is better, emacs or vim?
+Definitely emacs.
+What are the most used programming languages in finance?
+The most used languages are C++, python, and R.
+Why do we trade volatility.
+Besides speculation, we trade volatility to hedge option portfolios.
