@@ -7063,3 +7063,11 @@ What are the most used programming languages in finance?
 The most used languages are C++, python, and R.
 Why do we trade volatility.
 Besides speculation, we trade volatility to hedge option portfolios.
+Where will a market buy order be executed?
+At the ask.
+Where will a market sell order be executed?
+At the bid.
+Is a limit order guaranteed to be executed?
+No, it may sit in the orderbook indefinitely.
+What is emacs?
+It is an extensible text editor; in essence an emacs lisp evaluation environment.
