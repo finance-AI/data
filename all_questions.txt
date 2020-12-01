@@ -7071,3 +7071,11 @@ Is a limit order guaranteed to be executed?
 No, it may sit in the orderbook indefinitely.
 What is emacs?
 It is an extensible text editor; in essence an emacs lisp evaluation environment.
+When is the stock market open?
+From 9:30am to 4:00pm eastern time on weekdays.
+What does SIPC stand for?
+The Securities Investor Protection Corporation.
+What does SIPC do?
+It insures investor loss against the failure of their brokerage firm.
+Does SIPC insure everything in the investor's portfolio?
+No, it does not cover funds used to trade foreign exchange.
