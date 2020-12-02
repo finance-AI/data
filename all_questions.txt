@@ -7079,3 +7079,11 @@ What does SIPC do?
 It insures investor loss against the failure of their brokerage firm.
 Does SIPC insure everything in the investor's portfolio?
 No, it does not cover funds used to trade foreign exchange.
+What does API stand for?
+API stands for Application Programming Interface.
+What does EVA stand for?
+EVA stand for Economic Value Added.
+What is Economic Value Added?
+The dollar value that a firm earns less its opportunity cost.
+What is the short rate?
+The interest rate for borrowing over the next instant.
