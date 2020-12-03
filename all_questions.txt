@@ -7087,3 +7087,9 @@ What is Economic Value Added?
 The dollar value that a firm earns less its opportunity cost.
 What is the short rate?
 The interest rate for borrowing over the next instant.
+What is a differential equation?
+An equation which expresses the relationship between variables and their derivatives.
+What is a stochastic differential equation.
+A differential equation which incorporates the derivative of a random process.
+What do we use stochastic differential equations for in finance?
+In continuous time, we use them to describe stock prices and other processes.
