@@ -7099,3 +7099,9 @@ When will a stop buy order be executed?
 When a stock's bid price increases to the stop price.
 When do you use a stop order?
 To get out of a losing position, or to enter a momentum trade.
+What is the difference between a stop and stop limit order?
+When triggered, a stop order sends a market order to the exchange, whereas a stop limit sends a limit order.
+What is the danger in a stop limit order?
+If the limit price is not hit, you won't get our of your losing trade.
+What is the ticker symbol for Pfizer?
+Pfizer's ticker symbol is PFE.
