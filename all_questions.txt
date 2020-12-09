@@ -7105,3 +7105,13 @@ What is the danger in a stop limit order?
 If the limit price is not hit, you won't get our of your losing trade.
 What is the ticker symbol for Pfizer?
 Pfizer's ticker symbol is PFE.
+Are there types of orders other than market, limit, and stop?
+Yes, there are many others.
+How do you buy a bull call spread?
+You buy a call option and sell a higher strike call option with the same underlying and maturity.
+If you own a bull call spread do you want the underlying to increase or decrease?
+You want it to increase.
+What does CFO stand for?
+CFO stands for Chief Financial Officer.
+What does CEO stand for?
+CEO stands for Chief Executive Officer.
