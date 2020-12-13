@@ -7123,3 +7123,5 @@ How do you buy a bear put spread?
 You buy a put option and sell a lower strike put option with the same underlying and maturity.
 How do you buy a bull put spread?
 You buy a put option and sell a higher strike put option with the same underlying and maturity.
+Into what are soybeans refined?
+Soybeans are refined into soy meal and soy oil.
