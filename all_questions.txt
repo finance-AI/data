@@ -7137,3 +7137,11 @@ What is the term for when the Federal Reserve buys Treasury debt?
 The term is monitizing the debt.
 When the Federal Reserve buys Treasury debt, is money created?
 Yes, new money is created and the money supply increases.
+Which Federal Reserve District Bank handles open market operations?
+The New York Fed.
+What is a pairs trade?
+The pairs trade speculates on the relative firm specific return between two assets.
+Do you hold market risk in a pairs trade?
+No the market risk should be cancelled out by the short side of the trade.
+Is the pairs trade a market neutral trading strategy?
+Yes, you are both long and short the same amount of market risk.
