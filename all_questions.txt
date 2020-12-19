@@ -5310,7 +5310,7 @@ What tactic makes it less likely that takeover attempts will succeed because it 
 Staggering
 What is a grant of authority by a shareholder to someone else to vote her shares called?
 Proxy
-What do we call a situation where an "outisde" group of shareholders tries to obtain votes via proxy becasue they are not satisfied with management?
+What do we call a situation where an "outside" group of shareholders tries to obtain votes via proxy becasue they are not satisfied with management?
 Proxy Fight
 What is the ability for stockholders to share proportionally in any new stock sold called?
 Preemptive Right
@@ -5329,7 +5329,7 @@ Sinking Funds
 What does TOPrS stand for?
 Trust-Originated Preferred Securities
 What does MIPS stand for?
-Monthly Income Preferred Securitites
+Monthly Income Preferred Securities
 What does QUIPS stand for?
 Quarterly Income Preferred Securities
 What is the person or firm making the loan called?
@@ -5362,7 +5362,7 @@ What is the part of the indenture or loan agreement that limits certain actions 
 Protective Covenant
 What is a "thou shalt not" type of covenant?
 Negative Covenant
-What type of convenant specifies an action that the company agrees to take or a condition the company must abide by?
+What type of covenant specifies an action that the company agrees to take or a condition the company must abide by?
 Positive Covenant
 What is a bond issued by multiple countries but denominated in a single currency, usually the issuer's home currency?
 Eurobond
@@ -5556,8 +5556,8 @@ What types of decisions can be made to change a stock’s beta?
 Changes in industry borrowing.
 What is the rate at which cash flows are discounted for risky projects?
 Weighted average cost of capital (WACC)
-What would the effect be of using weighted average cost of capital (WACC) for an entire portfolio?
-More risker projects would be accepted and more low-risk projects would be rejected.
+What would the effect be of using weighted average cost of capital (WACC) for an entire firm?
+More risky projects would be accepted and more low-risk projects would be rejected.
 What is the capital asset pricing model (CAPM)?
 The relationship between the expected return on stock and beta.
 How do investors calculate CAPM?
@@ -6271,9 +6271,9 @@ Add up all of the values and divide by the total number.
 What is the most common measure of variability or dispersion? 
 The variance and its square root, the standard deviation.
 What is a eurobond?
-A bond issued in multiple countries but denominated in a single currency, usuaslly the issuers home country
+A bond issued in multiple countries but denominated in a single currency, usually the issuers home country
 What is a foreign bond?
-A bond issued in a single country and are usually demoninated in that countries currency.
+A bond issued in a single country and are usually denominated in that countries currency.
 What does a put bond allow the holder to do?
 It allows the holder to force the issuer to buy the bond back at stated price
 What does a CAT bond stand for?
@@ -6303,7 +6303,7 @@ A market where prices reflect all information both public and private.
 What is bubble theory?
 The theory that security prices occasionally move to extremes above their actual value.
 What is a bearer bond?
-A bearer bond is a bond without without a recorded ownerwhich forces the holder of the bond to detatch the coupons and send them to the company to receive payment.
+A bearer bond is a bond without without a recorded owner which forces the holder of the bond to detach the coupons and send them to the company to receive payment.
 What is a call protected bond?
 A call protected bond is a bond with a call provision but cannot be called for a certain period of time, during this time the bond is call protected.
 What is net working capital?
@@ -6311,13 +6311,13 @@ Net working capital is current assets minus current liabilities
 What is the difference between short-term and long-term debt?
 Short term debt must be repaid within one year whereas long-term debt does not have to be repaid within one year.
 What is capital budgeting?
-Capital budgeting is the process of making and managing expenditures on long-lived assest.
+Capital budgeting is the process of making and managing expenditures on long-lived assets.
 What is the responsibility of a treasurer in corporate finance?
-A treasurer is responsible for handling a corporation's cash flows, managaing capital expenditure decisions, and making financial plans.
+A treasurer is responsible for handling a corporation's cash flows, managing capital expenditure decisions, and making financial plans.
 What is the responsibility of a controller in corporate finance?
 A controller is responsible for handling a corporation's accounting function, including taxes, cost and financial accounting, and information systems.
 What is GAAP?
-GAAP stands for generally accepted accounting principles which are rules and standards commomly followed in accounting procedures.
+GAAP stands for generally accepted accounting principles which are rules and standards commonly followed in accounting procedures.
 What are agency costs?
 Agency costs are the costs of the conflict of interest between stockholders and management.
 What does it mean when a company goes dark?
@@ -6330,7 +6330,7 @@ What is a flat-rate tax?
 A flat-rate tax means there is one tax rate for all income levels, which also means the marginal tax rate is the same for all incomes.
 What is operating cash flow?
 Operating cash flow is earnings before interest plus depreciation minus taxes. Operating cash flow measures the cash generated from operations not counting capitalspending or work capital requirements.
-What are commom-size statements?
+What are common-size statements?
 Common-Size statements are financial documents that adjust for the difference in size, currency, or time to simplify the comparison of companies.
 What is market capitalization?
 Market capitalization is the firms outstanding shares times it's market price per share.
@@ -6425,15 +6425,15 @@ A permission given to a corporation to register an offering that it reasonably e
 What are the stages of venture capital financing?
 seed money is the first stage followed by start-up, first-round financing, secound-round financing, third-round financing, and fourth-round financing.
 What is a leveraged lease?
-A three-sided arrangement among the lessee, leesor, and lendors.
+A three-sided arrangement among the lessee, lessor, and lenders.
 What is conversion value?
 This is what bonds would be worth if they were immediately converted into common stock at current prices.
 What is a forced conversion?
-This is when the conversionvalue is greater than the call price.
+This is when the conversion value is greater than the call price.
 What is hedging?
-Hedging is when a firm reducesits risk exposure with the use of drivatives.
+Hedging is when a firm reduces its risk exposure with the use of derivatives.
 What are swaps?
-Swaps are arrangements between two counterparties to exchange cash flows over time.
+Swaps are arrangements between two counter-parties to exchange cash flows over time.
 What are shortage costs?
 These are costs that decline with increases in the level of investment in current assets.
 What are carrying costs?
@@ -6930,7 +6930,7 @@ Return on equity is net income divided by assets.
 What is the DuPont Identity?
 The DuPont Identity decomposes return on equity into the product of the profit margin, total asset turnover, and the equity multiplier.
 What is a benefit of issuing debt for a firm?
-The interest payments are tax deductable.
+The interest payments are tax deductible.
 What government agency regulates US stock trading?
 The Securities and Exchange Commission.
 What does SEC stand for?
@@ -7130,11 +7130,11 @@ The Fed buys assets, thereby increasing the cash balance in the sellers account,
 Is the Federal Reserve part of the US government?
 No, though the government has some appointment and oversight authority.
 What does owning an asset mean?
-You have control over the assset and have the residual claim on income generated by the asset.
+You have control over the asset and have the residual claim on income generated by the asset.
 What does the beta coefficient measure?
 The beta coefficient measures the amount of systematic risk in the asset.
 What is the term for when the Federal Reserve buys Treasury debt?
-The term is monitizing the debt.
+The term is monetizing the debt.
 When the Federal Reserve buys Treasury debt, is money created?
 Yes, new money is created and the money supply increases.
 Which Federal Reserve District Bank handles open market operations?
@@ -7142,6 +7142,6 @@ The New York Fed.
 What is a pairs trade?
 The pairs trade speculates on the relative firm specific return between two assets.
 Do you hold market risk in a pairs trade?
-No the market risk should be cancelled out by the short side of the trade.
+No the market risk should be canceled out by the short side of the trade.
 Is the pairs trade a market neutral trading strategy?
 Yes, you are both long and short the same amount of market risk.
