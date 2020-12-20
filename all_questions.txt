@@ -7126,7 +7126,7 @@ You buy a put option and sell a higher strike put option with the same underlyin
 Into what are soybeans refined?
 Soybeans are refined into soy meal and soy oil.
 How does the Federal Reserve create money?
-The Fed buys assets, thereby increasing the cash balance in the sellers account, and note cash can't decrease in thier own account.
+The Fed buys assets, thereby increasing the cash balance in the sellers account, and note cash can't decrease in their own account.
 Is the Federal Reserve part of the US government?
 No, though the government has some appointment and oversight authority.
 What does owning an asset mean?
@@ -7145,3 +7145,9 @@ Do you hold market risk in a pairs trade?
 No the market risk should be canceled out by the short side of the trade.
 Is the pairs trade a market neutral trading strategy?
 Yes, you are both long and short the same amount of market risk.
+Is Artificial Intelligence used in investment management?
+Yes, many investments funds are using Artificial Intelligence.
+In what year was the market affected by the coronavirus (COVID-19)?
+The market was affected in 2020.
+When are two time series cointegrated?
+When a linear combination of the two has a zero mean and no unit root.
