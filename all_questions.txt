@@ -7151,3 +7151,9 @@ In what year was the market affected by the coronavirus (COVID-19)?
 The market was affected in 2020.
 When are two time series cointegrated?
 When a linear combination of the two has a zero mean and no unit root.
+What is a weakly stationary time series?
+A time series with constant mean and where the covariance with past series only depends on the lag.
+What does the term stochastic mean?
+It denotes a random variable indexed over time.
+What are stochastic differential equations?
+Differential equations which include random processes.
