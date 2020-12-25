@@ -7157,3 +7157,13 @@ What does the term stochastic mean?
 It denotes a random variable indexed over time.
 What are stochastic differential equations?
 Differential equations which include random processes.
+Can geometric Brownian motion ever become negative?
+No, geometric Brownian motion takes only positive values.
+For what do we use geometric Brownian motion?
+We use geometric Brownian motion to model stock prices.
+What is Ethereum?
+Ethereum is a decentralized, blockchain, that allows users to create smart contracts.
+What is Ether?
+Ether is the cryptocurrency of the Ethereum blockchain.
+What is a cryptocurrency?
+A cryptocurrency is a decentralized digital currency which uses cryptography to handle transactions and currency creation.
