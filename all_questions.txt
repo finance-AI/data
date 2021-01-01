@@ -7167,3 +7167,11 @@ What is Ether?
 Ether is the cryptocurrency of the Ethereum blockchain.
 What is a cryptocurrency?
 A cryptocurrency is a decentralized digital currency which uses cryptography to handle transactions and currency creation.
+What is an Ethereum smart contract?
+It is a contract between two accounts that resides on the Ethereum blockchain.
+What is a measurable function?
+A function that, for any outcome, we can determine the measure of the domain that leads to that outcome.
+Is the sum of normal distributions also normally distributed?
+Yes, the sum os also normallly distributed.
+What is another name for a normal distribution?
+Another name is a Gaussian distribution.
