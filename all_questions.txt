@@ -7172,6 +7172,8 @@ It is a contract between two accounts that resides on the Ethereum blockchain.
 What is a measurable function?
 A function that, for any outcome, we can determine the measure of the domain that leads to that outcome.
 Is the sum of normal distributions also normally distributed?
-Yes, the sum os also normallly distributed.
+Yes, the sum is also normally distributed.
 What is another name for a normal distribution?
 Another name is a Gaussian distribution.
+What is a white noise process?
+A time series process which is serially uncorrelated and has a constant mean and variance.
