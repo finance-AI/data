@@ -7177,3 +7177,9 @@ What is another name for a normal distribution?
 Another name is a Gaussian distribution.
 What is a white noise process?
 A time series process which is serially uncorrelated and has a constant mean and variance.
+What does GARCH stand for?
+GARCH stands for Generalized Autoregressive Conditional Heteroskedasticity.
+What does ARCH stand for?
+ARCH stands for Autoregressive Conditional Heteroskedasticity.
+For what do you use an ARCH or GARCH model?
+To model changes in the volatility of returns.
