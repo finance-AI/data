@@ -7183,3 +7183,10 @@ What does ARCH stand for?
 ARCH stands for Autoregressive Conditional Heteroskedasticity.
 For what do you use an ARCH or GARCH model?
 To model changes in the volatility of returns.
+What is the leverage effect?
+The observation that volatility responds more to falls in prices than rises.
+Does the GARCH model account for the leverage effect?
+No, the GARCH model treats rises and falls in prices equally.
+Does the EGARCH model account for the leverage effect?
+Yes, the EGARCH model distinguishes between positive and negative returns.
+
