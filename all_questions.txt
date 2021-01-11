@@ -7189,4 +7189,7 @@ Does the GARCH model account for the leverage effect?
 No, the GARCH model treats rises and falls in prices equally.
 Does the EGARCH model account for the leverage effect?
 Yes, the EGARCH model distinguishes between positive and negative returns.
-
+How can you test for a unit root in a time series?
+You can use an Augmented Dickey-Fuller test.
+Can you trade foreign currencies via ETF?
+Yes, FXE and FXY are ETFs for the euro and yen respectively.
