@@ -7201,3 +7201,7 @@ What does the Greek Gamma measure?
 Gamma measures the rate of change of the Delta.
 What is the practical significance of an option's Gamma?
 It is a measure of how often a Delta hedged portfolio will have to be rebalanced.
+What does the option Greek theta measure?
+It measures the time decay of the option's premium.
+What does the option Greek vega measure?
+It measures the sensitivity of the option premium to changes in the underlying's volatility.
