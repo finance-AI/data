@@ -7207,3 +7207,7 @@ What does the option Greek vega measure?
 It measures the sensitivity of the option premium to changes in the underlying's volatility.
 What does the option Greek rho measure?
 It measures the sensitivity of the option premium to changes in the risk-free rate.
+Is it common to hedge an option's theta?
+No, because the passage of time is not random.
+Is it important when delta hedging an option to also hedge gamma?
+Yes, particularly if the underlying may make large moves in price.
