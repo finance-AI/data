@@ -7211,3 +7211,7 @@ Is it common to hedge an option's theta?
 No, because the passage of time is not random.
 Is it important when delta hedging an option to also hedge gamma?
 Yes, particularly if the underlying may make large moves in price.
+Is it common to hedge an option's vega?
+Yes, a stock often has large changes in volatility.
+Is it common to hedge an option's rho?
+No, the risk-free rate is fairly stable over the life of an option.
