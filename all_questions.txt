@@ -7215,3 +7215,9 @@ Is it common to hedge an option's vega?
 Yes, a stock often has large changes in volatility.
 Is it common to hedge an option's rho?
 No, the risk-free rate is fairly stable over the life of an option.
+What is the ticker of GameStop corp?
+Gamestop's ticker is GME.
+If a country's currency declines, does this have an effect on the country's inflation rate?
+Yes, a declining currency increases inflation.
+Why does a declining currency increase inflation.
+Because imports cost more and therefore allow domestic producers to raise prices.
