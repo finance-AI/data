@@ -7221,3 +7221,7 @@ If a country's currency declines, does this have an effect on the country's infl
 Yes, a declining currency increases inflation.
 Why does a declining currency increase inflation.
 Because imports cost more and therefore allow domestic producers to raise prices.
+What is a DRIP?
+A dividend reinvestment program.
+What does a DRIP do?
+It automatically buys stock with the stock's dividend payments.
