@@ -7225,3 +7225,7 @@ What is a DRIP?
 A dividend reinvestment program.
 What does a DRIP do?
 It automatically buys stock with the stock's dividend payments.
+What is a short squeeze?
+When shorts are forced to buy due to losses but they have to buy at increasing prices because few shares are available.
+What is the effect on the price from a short squeeze?
+The price can increase dramatically, often far above a reasonable value.
