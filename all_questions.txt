@@ -7229,3 +7229,7 @@ What is a short squeeze?
 When shorts are forced to buy due to losses but they have to buy at increasing prices because few shares are available.
 What is the effect on the price from a short squeeze?
 The price can increase dramatically, often far above a reasonable value.
+Can an option's implied volatility be greater than 100%?
+Yes, there is no upper limit on implied volatility.
+Can an option's implied volatility be less than 0?
+No, implied volatility is strictly positive.
