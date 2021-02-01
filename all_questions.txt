@@ -7237,3 +7237,9 @@ If option implied volatility gets larger, what happens to out-of-the-money call 
 Out-of-the-money call deltas get larger.
 What does it mean when a central bank eases monetary policy?
 It means lower interest rates and a larger money supply.
+Does the financial press try to inform investors or create noise traders?
+The financial press attempts to create noise traders.
+Do market makers profit from informed or noise traders?
+Market makers profit from noise traders.
+Do market makers lose to the informed?
+Yes, the informed only trade when it is disadvantageous to the market maker.
