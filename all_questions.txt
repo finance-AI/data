@@ -7243,3 +7243,11 @@ Do market makers profit from informed or noise traders?
 Market makers profit from noise traders.
 Do market makers lose to the informed?
 Yes, the informed only trade when it is disadvantageous to the market maker.
+If you are a broker, is it easier to sell your customer order flow if they are informed or clueless?
+It is easier to sell if your customers are clueless.
+What is Nokia's ticker symbol?
+Nokia's ticker is NOK.
+Is gold a good investment?
+No.
+Why do people buy gold?
+They think it is an inflation hedge.
