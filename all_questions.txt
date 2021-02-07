@@ -7251,3 +7251,7 @@ Is gold a good investment?
 No.
 Why do people buy gold?
 They think it is an inflation hedge.
+Where are Bitcoin futures traded?
+Bitcoin futures are traded on the CME.
+What is a common ticker used for Bitcoin?
+A common ticker is BTC.
