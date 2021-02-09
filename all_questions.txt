@@ -7255,3 +7255,7 @@ Where are Bitcoin futures traded?
 Bitcoin futures are traded on the CME.
 What is a common ticker used for Bitcoin?
 A common ticker is BTC.
+What does SOFR stand for?
+SOFR stand for Secured Overnight Funding Rate.
+Why is SOFR important?
+SOFR is a likely replacement for LIBOR.
