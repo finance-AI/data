@@ -7265,3 +7265,7 @@ If the underlying's volatility increases what happens to a call option's price?
 The call option's price increases.
 If the underlying's volatility increases what happens to a put option's price?
 The put option's price increases.
+What does EBIT stand for?
+EBIT stands for Earnings Before Interest and Taxes.
+What does EBITDA stand for?
+EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization.
