@@ -7269,3 +7269,7 @@ What does EBIT stand for?
 EBIT stands for Earnings Before Interest and Taxes.
 What does EBITDA stand for?
 EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization.
+Can electricity prices be negative?
+Yes, and negative electricity prices are not uncommon.
+Can stock prices be negative?
+No, due to limited liability. 
