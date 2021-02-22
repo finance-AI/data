@@ -7273,3 +7273,7 @@ Can electricity prices be negative?
 Yes, and negative electricity prices are not uncommon.
 Can stock prices be negative?
 No, due to limited liability. 
+When do you receive a margin call?
+When your percent margin equals your maintenance margin.
+How do you calculate your margin percent?
+Your margin percent is your position equity divided by the market value of your position.
