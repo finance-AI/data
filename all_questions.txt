@@ -7277,3 +7277,5 @@ When do you receive a margin call?
 When your percent margin equals your maintenance margin.
 How do you calculate your margin percent?
 Your margin percent is your position equity divided by the market value of your position.
+What is a junk bond?
+It is a bond rated below investment-grade.
