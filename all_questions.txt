@@ -7279,3 +7279,7 @@ How do you calculate your margin percent?
 Your margin percent is your position equity divided by the market value of your position.
 What is a junk bond?
 It is a bond rated below investment-grade.
+Do foreign investors generally buy US municipal bonds?
+No, because they can't take advantage of the tax status and the bonds have a low yield.
+What does DeFi stand for?
+DeFi stand for decentralized finance.
