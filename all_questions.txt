@@ -7283,3 +7283,5 @@ Do foreign investors generally buy US municipal bonds?
 No, because they can't take advantage of the tax status and the bonds have a low yield.
 What does DeFi stand for?
 DeFi stand for decentralized finance.
+Where do we get the name for the programming language Lisp?
+Lisp stand for List Processing.
