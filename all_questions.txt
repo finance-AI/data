@@ -7285,3 +7285,5 @@ What does DeFi stand for?
 DeFi stand for decentralized finance.
 Where do we get the name for the programming language Lisp?
 Lisp stand for List Processing.
+What is the ticker for the 10-year Treasury note futures contract traded on the CME?
+The ticker is ZN.
