@@ -7291,3 +7291,7 @@ For which months are there contracts on NYMEX Natural Gas (ticker NG)?
 There are contracts for every month.
 For which months are there contracts on NYMEX Crude Oil (ticker CL)?
 There are contracts for every month.
+What does ETF stand for?
+ETF stand for Exchange Traded Fund.
+What does ETN stand for?
+ETN stand for Exchange Traded Note.
