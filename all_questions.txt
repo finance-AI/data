@@ -7295,3 +7295,9 @@ What does ETF stand for?
 ETF stand for Exchange Traded Fund.
 What does ETN stand for?
 ETN stand for Exchange Traded Note.
+What does OTC stand for?
+OTC stand for over the counter.
+How do you calculate a company's market capitalization?
+A company's market capitalization is its share price times the number of shares outstanding.
+What does market cap mean?
+Market cap is short for market capitalization.
