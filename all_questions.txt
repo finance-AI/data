@@ -7301,3 +7301,5 @@ How do you calculate a company's market capitalization?
 A company's market capitalization is its share price times the number of shares outstanding.
 What does market cap mean?
 Market cap is short for market capitalization.
+How do you measure the total size of a company?
+By its enterprise value.
