@@ -7305,3 +7305,7 @@ How do you measure the total size of a company?
 By its enterprise value.
 How to you calculate a firm's enterprise value?
 Enterprise value is market cap plus long-term debt.
+What are 2 and 20 fees?
+Fees that are 2 percent of AUM and 20% of gains.
+What does AUM fees stand for.
+AUM fees are fees on all Assets Under Management.
