@@ -7309,3 +7309,6 @@ What are 2 and 20 fees?
 Fees that are 2 percent of AUM and 20% of gains.
 What does AUM fees stand for.
 AUM fees are fees on all Assets Under Management.
+What are LEAPS?
+LEAPS are Long-Term Equity Anticipation Securities.
+ 
