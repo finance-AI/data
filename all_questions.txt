@@ -7311,3 +7311,5 @@ What does AUM fees stand for.
 AUM fees are fees on all Assets Under Management.
 What are LEAPS?
 LEAPS are Long-Term Equity Anticipation Securities.
+What institution controls monetary policy for the euro area?
+The European Central Bank.
