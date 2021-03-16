@@ -7321,3 +7321,5 @@ The CBOE was created in what year?
 The CBOE was created in 1973.
 What does CBOE stand for?
 CBOE stands for Chicago Board Options Exchange.
+What is the crush spread?
+The crush spread is the refining margin on soybeans.
