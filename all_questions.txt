@@ -7323,3 +7323,5 @@ What does CBOE stand for?
 CBOE stands for Chicago Board Options Exchange.
 What is the crush spread?
 The crush spread is the refining margin on soybeans.
+What are bank loan loss provisions?
+Money set aside by banks to cover future loan losses.
