@@ -7325,3 +7325,7 @@ What is the crush spread?
 The crush spread is the refining margin on soybeans.
 What are bank loan loss provisions?
 Money set aside by banks to cover future loan losses.
+What type of index is the Dow Jones Industrial Average?
+It is a price-weighted index.
+What type of index is the S&P 500 index.
+It is a value-weighted index.
