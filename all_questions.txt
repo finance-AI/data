@@ -7331,3 +7331,5 @@ What type of index is the S&P 500 index.
 It is a value-weighted index.
 How is an asset's excess return often defined?
 Excess return is often defined as the asset's return minus the risk free rate.
+How do you calculate a portfolio's information ratio?
+First estimate a market model, and then divide the portfolio's alpha by the standard deviation of its residuals.
