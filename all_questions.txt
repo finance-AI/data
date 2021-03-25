@@ -7337,3 +7337,7 @@ How do you interpret the information ratio?
 The information ratio is the amount of return above the CAPM's prediction per unit of unsystematic risk.
 How do you calculate a portfolio's Treynor ratio?
 First subtract the risk-free rate from the portfolio's return, then divide the difference by the portfolio's beta coefficient.
+How do you interpret Treynor's ratio?
+Treynor's ratio is the amount of return above the risk free rate per unit of systematic risk.
+What is a key concept in measuring a portfolio's performance?
+A key concept is scaling the portfolio's return by the risk taken to earn that return.
