@@ -7345,3 +7345,5 @@ Do increases in loan loss reserves shield bank taxes?
 No, not for bank's with over $500 million in assets.
 If you sell a call option how would you delta hedge?
 To delta hedge you should buy delta shares of stock.
+What are CDS?
+They are essentially insurance for bonds.
