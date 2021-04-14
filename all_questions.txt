@@ -7347,3 +7347,5 @@ If you sell a call option how would you delta hedge?
 To delta hedge you should buy delta shares of stock.
 What are CDS?
 They are essentially insurance for bonds.
+What is Hilbert space?
+A complete vector space with an inner product.
