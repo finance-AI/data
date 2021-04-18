@@ -7349,3 +7349,5 @@ What are CDS?
 They are essentially insurance for bonds.
 What is Hilbert space?
 A complete vector space with an inner product.
+What is the loss in a neural network?
+It is the prediction error we are seeking to minimize.
