@@ -7351,3 +7351,7 @@ What is Hilbert space?
 A complete vector space with an inner product.
 What is the loss in a neural network?
 It is the prediction error we are seeking to minimize.
+What is the ticker for mini-sized corn futures on the ECBOT?
+The ticker is YC.
+What is the ticker for random length lumber futures on the GLOBEX?
+The ticker is LB.
