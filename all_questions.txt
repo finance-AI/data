@@ -7355,3 +7355,5 @@ What is the ticker for mini-sized corn futures on the ECBOT?
 The ticker is YC.
 What is the ticker for random length lumber futures on the GLOBEX?
 The ticker is LB.
+For how many bushels of corn is CME mini-corn?
+Each CME mini-corn contract is for 1000 bushels.
