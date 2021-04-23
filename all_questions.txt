@@ -7357,3 +7357,5 @@ What is the ticker for random length lumber futures on the GLOBEX?
 The ticker is LB.
 For how many bushels of corn is CME mini-corn?
 Each CME mini-corn contract is for 1000 bushels.
+For how many bushels of corn is CME full-sized corn contract?
+Each CME corn contract is for 5000 bushels.
