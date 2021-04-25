@@ -7365,3 +7365,5 @@ What is the ticker for mini-sized soybeans futures on the ECBOT?
 The ticker is YK.
 What is the Bolzano-Weierstrass Theorem?
 That a bounded and infinite subset of the real numbers, has a limit point in the real numbers.
+What is the ticker for the Micro E-Mini NASDAQ-100 Index futures contract at the CME?
+The ticker is MNQ.
