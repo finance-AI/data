@@ -7367,3 +7367,5 @@ What is the Bolzano-Weierstrass Theorem?
 That a bounded and infinite subset of the real numbers, has a limit point in the real numbers.
 What is the ticker for the Micro E-Mini NASDAQ-100 Index futures contract at the CME?
 The ticker is MNQ.
+What is the multiplier for the Micro E-Mini NASDAQ-100 Index futures contract at the CME?
+The multiplier is $2.
