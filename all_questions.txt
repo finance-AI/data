@@ -7371,3 +7371,7 @@ What is the multiplier for the Micro E-Mini NASDAQ-100 Index futures contract at
 The multiplier is $2.
 What is the multiplier for the E-Mini S&P 500 Index futures contract at the CME?
 The multiplier is $50.
+What is the multiplier for the Micro E-Mini S&P 500 Index futures contract at the CME?
+The multiplier is $5.
+What is the ticker for the Micro E-Mini S&P 500 Index futures contract at the CME?
+The ticker is MES.
