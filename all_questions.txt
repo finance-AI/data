@@ -7375,3 +7375,5 @@ What is the multiplier for the Micro E-Mini S&P 500 Index futures contract at th
 The multiplier is $5.
 What is the ticker for the Micro E-Mini S&P 500 Index futures contract at the CME?
 The ticker is MES.
+What are the inputs for the Black-Scholes option pricing model?
+The inputs are the stock and strike prices, risk-free rate, volatility, and the time to expiration.
