@@ -7377,3 +7377,5 @@ What is the ticker for the Micro E-Mini S&P 500 Index futures contract at the CM
 The ticker is MES.
 What are the inputs for the Black-Scholes option pricing model?
 The inputs are the stock and strike prices, risk-free rate, volatility, and the time to expiration.
+How do you get an option's implied volatility using the Black-Scholes model?
+You find the volatility which makes the option's value equal to the price in the market.
