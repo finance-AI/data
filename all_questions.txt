@@ -7381,3 +7381,5 @@ How do you get an option's implied volatility using the Black-Scholes model?
 You find the volatility which makes the option's value equal to the price in the market.
 What is portfolio insurance?
 It is a trading strategy which replicates a protective put.
+Why do some think portfolio insurance exacerbates market crashes?
+Because portfolio insurance sell stock when stock prices fall.
