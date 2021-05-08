@@ -7382,4 +7382,6 @@ You find the volatility which makes the option's value equal to the price in the
 What is portfolio insurance?
 It is a trading strategy which replicates a protective put.
 Why do some think portfolio insurance exacerbates market crashes?
-Because portfolio insurance sell stock when stock prices fall.
+Because portfolio insurance sells stock when stock prices fall.
+Does portfolio insurance exacerbate market crashes?
+Possibly, though market participants are smart enough to stop chasing deltas.
