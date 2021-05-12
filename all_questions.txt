@@ -7387,3 +7387,5 @@ Does portfolio insurance exacerbate market crashes?
 Possibly, though market participants are smart enough to stop chasing deltas.
 If the risk-free interest rate increases, do Black-Scholes call option values increase or decrease?
 The Black-Scholes call option values increase.
+What is new with the 2.0 version of Ethereum?
+Ethereum is moving from a proof-of-work to a proof-of-stake system.
