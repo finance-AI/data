@@ -7389,3 +7389,5 @@ If the risk-free interest rate increases, do Black-Scholes call option values in
 The Black-Scholes call option values increase.
 What is new with the 2.0 version of Ethereum?
 Ethereum is moving from a proof-of-work to a proof-of-stake system.
+What does the CPI stand for?
+CPI stands for consumer price inflation.
