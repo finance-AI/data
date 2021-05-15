@@ -7391,3 +7391,5 @@ What is new with the 2.0 version of Ethereum?
 Ethereum is moving from a proof-of-work to a proof-of-stake system.
 What does the CPI stand for?
 CPI stands for consumer price inflation.
+What does PPI stand for?
+PPI stands for producer price inflation.
