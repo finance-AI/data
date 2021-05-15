@@ -7393,3 +7393,5 @@ What does the CPI stand for?
 CPI stands for consumer price inflation.
 What does PPI stand for?
 PPI stands for producer price inflation.
+What is the difference between the CPI and PPI?
+The CPI measures inflation at the consumer level, and the PPI measures it at the producer level.
