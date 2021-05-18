@@ -7399,3 +7399,5 @@ Does inflation show up first in the PPI or CPI?
 Inflation generally starts in the PPI.
 If inflation increases unexpectedly, what happens to stock prices?
 Stock prices decline.
+What is Coinbase's ticker symbol?
+Its ticker is COIN.
