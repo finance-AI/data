@@ -7401,3 +7401,5 @@ If inflation increases unexpectedly, what happens to stock prices?
 Stock prices decline.
 What is Coinbase's ticker symbol?
 Its ticker is COIN.
+Is Bitcoin a currency or an investment?
+It should be a currency but it is treated like an investment.
