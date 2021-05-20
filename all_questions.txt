@@ -7405,3 +7405,5 @@ Is Bitcoin a currency or an investment?
 It should be a currency but it is treated like an investment.
 What is Walmart's ticker symbol?
 Its ticker symbol is WMT.
+What does LBO stand for?
+LBO stands for Leveraged Buyout.
