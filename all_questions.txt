@@ -7403,3 +7403,5 @@ What is Coinbase's ticker symbol?
 Its ticker is COIN.
 Is Bitcoin a currency or an investment?
 It should be a currency but it is treated like an investment.
+What is Walmart's ticker symbol?
+Its ticker symbol is WMT.
