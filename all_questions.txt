@@ -7407,3 +7407,5 @@ What is Walmart's ticker symbol?
 Its ticker symbol is WMT.
 What does LBO stand for?
 LBO stands for Leveraged Buyout.
+Are option grants to the CEO of a acquisition target common?
+Yes, and we suspect it is to ensure a friendly acquisition.
