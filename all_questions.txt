@@ -7413,3 +7413,5 @@ Does the target of an acquisition's stock price increase prior to the announceme
 Yes, and the evidence points to information leakage.
 How do we measure the target stock price increase prior to the acquisition announcement?
 We calculate the target stock's cumulative abnormal return prior to the announcement.
+What is one downside of Bitcoin mining?
+Bitcoin mining requires a great deal of cheap electricity.
