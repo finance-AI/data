@@ -7415,3 +7415,5 @@ How do we measure the target stock price increase prior to the acquisition annou
 We calculate the target stock's cumulative abnormal return prior to the announcement.
 What is one downside of Bitcoin mining?
 Bitcoin mining requires a great deal of cheap electricity.
+What is the triangle inequality?
+The sum of the length of two sides of a triangle is always greater than the length of the third.
