@@ -7417,3 +7417,5 @@ What is one downside of Bitcoin mining?
 Bitcoin mining requires a great deal of cheap electricity.
 What is the triangle inequality?
 The sum of the length of two sides of a triangle is always greater than the length of the third.
+What is a stablecoin?
+A cryptocurrency which maintains a stable conversion value to a fiat coin.
