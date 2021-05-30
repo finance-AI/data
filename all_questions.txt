@@ -7419,3 +7419,5 @@ What is the triangle inequality?
 The sum of the length of two sides of a triangle is always greater than the length of the third.
 What is a stablecoin?
 A cryptocurrency which maintains a stable conversion value to a fiat coin.
+What does TIPS stand for?
+TIPS stands for Treasury Inflation Protected Securities.
