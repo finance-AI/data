@@ -7421,3 +7421,5 @@ What is a stablecoin?
 A cryptocurrency which maintains a stable conversion value to a fiat coin.
 What does TIPS stand for?
 TIPS stands for Treasury Inflation Protected Securities.
+What are the goals of the Federal Reserve?
+To maintain price stability and ensure maximum employment.
