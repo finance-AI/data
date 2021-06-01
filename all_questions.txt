@@ -7423,3 +7423,5 @@ What does TIPS stand for?
 TIPS stands for Treasury Inflation Protected Securities.
 What are the goals of the Federal Reserve?
 To maintain price stability and ensure maximum employment.
+What is the pairs trade?
+A market neutral trading strategy which is long one stock and short another.
