@@ -7426,6 +7426,6 @@ To maintain price stability and ensure maximum employment.
 What is the pairs trade?
 A market neutral trading strategy which is long one stock and short another.
 What is Uniswap?
-A protocol which enables parties to exchange ERC-20 coins.
+A protocol which enables parties to exchange ERC-20 tokens.
 Does Uniswap require firms to make markets?
-No, Uniswap has a automated market making structure.
+No, Uniswap has an automated market making structure.
