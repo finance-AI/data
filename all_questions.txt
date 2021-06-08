@@ -7431,3 +7431,5 @@ Does Uniswap require firms to make markets?
 No, Uniswap has an automated market making structure.
 Are there decentralized money markets for cryptocurrencies?
 Yes, and two notable examples are Aave and Compound.
+What does DEX stand for?
+DEX stands for decentralized exchange.
