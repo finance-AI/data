@@ -7433,3 +7433,5 @@ Are there decentralized money markets for cryptocurrencies?
 Yes, and two notable examples are Aave and Compound.
 What does DEX stand for?
 DEX stands for decentralized exchange.
+If inflation increases what happens to stock prices?
+The discount rate increases and stock prices decline.
