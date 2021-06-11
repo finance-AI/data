@@ -7435,3 +7435,5 @@ What does DEX stand for?
 DEX stands for decentralized exchange.
 If inflation increases what happens to stock prices?
 The discount rate increases and stock prices decline.
+In banking, what does SLR stand for?
+SLR sands for the supplementary leverage ratio.
