@@ -7437,3 +7437,5 @@ If inflation increases what happens to stock prices?
 The discount rate increases and stock prices decline.
 In banking, what does SLR stand for?
 SLR sands for the supplementary leverage ratio.
+What does the FOMC stand for?
+FOMC stands for the Federal Open Market Committee.
