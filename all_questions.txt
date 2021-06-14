@@ -7439,3 +7439,5 @@ In banking, what does SLR stand for?
 SLR sands for the supplementary leverage ratio.
 What does the FOMC stand for?
 FOMC stands for the Federal Open Market Committee.
+Are transaction costs constant in Ethereum?
+No, transaction costs fluctuate with the number of transactions taking place.
