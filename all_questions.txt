@@ -7441,3 +7441,5 @@ What does the FOMC stand for?
 FOMC stands for the Federal Open Market Committee.
 Are transaction costs constant in Ethereum?
 No, transaction costs fluctuate with the number of transactions taking place.
+What is the ticker for an ETF that tracks the energy industry?
+XLE is the ticker for an ETF which tracks the energy industry.
