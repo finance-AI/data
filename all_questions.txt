@@ -7443,3 +7443,5 @@ Are transaction costs constant in Ethereum?
 No, transaction costs fluctuate with the number of transactions taking place.
 What is the ticker for an ETF that tracks the energy industry?
 XLE is the ticker for an ETF which tracks the energy industry.
+Where is the Waha natural gas hub?
+The Waha hub is in West Texas near Permian Basin production.
