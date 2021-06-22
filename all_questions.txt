@@ -7445,3 +7445,5 @@ What is the ticker for an ETF that tracks the energy industry?
 XLE is the ticker for an ETF which tracks the energy industry.
 Where is the Waha natural gas hub?
 The Waha hub is in West Texas near Permian Basin production.
+What is Compound.finance?
+It is a money-market for Ethereum-based cryptocurrencies.
