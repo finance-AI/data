@@ -7447,3 +7447,5 @@ Where is the Waha natural gas hub?
 The Waha hub is in West Texas near Permian Basin production.
 What is Compound.finance?
 It is a money-market for Ethereum-based cryptocurrencies.
+How do you create a bear call spread?
+Buy a call with a higher strike, and sell a call with a lower strike, on the same stock and with the same expiration.
