@@ -7455,3 +7455,5 @@ What is the CAPE ratio?
 The CAPE ratio is a cyclically-adjusted PE ratio.
 How do we calculate a asset's abnormal return on a specific day?
 We first calculate the expected return on the asset given prior data, and then subtract this from the actual return.
+What is QuantLib?
+A C++ library for quantitative finance.
