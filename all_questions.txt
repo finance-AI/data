@@ -7457,3 +7457,5 @@ How do we calculate a asset's abnormal return on a specific day?
 We first calculate the expected return on the asset given prior data, and then subtract this from the actual return.
 What is QuantLib?
 A C++ library for quantitative finance.
+What is the Widowmaker spread?
+The Widowmaker is the difference between April and March Natural Gas futures.
