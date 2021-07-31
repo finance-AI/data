@@ -7459,3 +7459,5 @@ What is QuantLib?
 A C++ library for quantitative finance.
 What is the Widowmaker spread?
 The Widowmaker is the difference between April and March Natural Gas futures.
+What is the ticker symbol for the Robinhood brokerage?
+The ticker symbol is HOOD.
