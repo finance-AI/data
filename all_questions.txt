@@ -7461,3 +7461,5 @@ What is the Widowmaker spread?
 The Widowmaker is the difference between April and March Natural Gas futures.
 What is the ticker symbol for the Robinhood brokerage?
 The ticker symbol is HOOD.
+What makes DeFi resistant to SEC regulation?
+DeFi is a set of protocols, and not entities.
