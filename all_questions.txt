@@ -7463,3 +7463,5 @@ What is the ticker symbol for the Robinhood brokerage?
 The ticker symbol is HOOD.
 What makes DeFi resistant to SEC regulation?
 DeFi is a set of protocols, and not entities.
+Can you compare a firm's ROE with its stock's return?
+No, the former is an accounting return and the latter is a market return.
