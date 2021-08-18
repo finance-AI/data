@@ -7465,3 +7465,5 @@ What makes DeFi resistant to SEC regulation?
 DeFi is a set of protocols, and not entities.
 Can you compare a firm's ROE with its stock's return?
 No, the former is an accounting return and the latter is a market return.
+What is the ticker symbol for micro Bitcoin futures on the CME?
+The ticker is MBT.
