@@ -7469,3 +7469,5 @@ What is the ticker symbol for micro Bitcoin futures on the CME?
 The ticker is MBT.
 What is Dai?
 Dai is a stablecoin cryptocurrency which is backed by collateral.
+What does the gamma of an option book measure?
+How quickly the book's delta will change.
