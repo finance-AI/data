@@ -7471,3 +7471,5 @@ What is Dai?
 Dai is a stablecoin cryptocurrency which is backed by collateral.
 What does the gamma of an option book measure?
 How quickly the book's delta will change.
+What is the ticker for Upstart?
+Upstart's ticker is UPST.
