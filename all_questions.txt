@@ -7473,3 +7473,5 @@ What does the gamma of an option book measure?
 How quickly the book's delta will change.
 What is the ticker for Upstart?
 Upstart's ticker is UPST.
+What does the term flaring mean?
+Burning off associated natural gas that cannot be transported from the well.
