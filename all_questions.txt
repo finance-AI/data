@@ -7475,3 +7475,7 @@ What is the ticker for Upstart?
 Upstart's ticker is UPST.
 What does the term flaring mean?
 Burning off associated natural gas that cannot be transported from the well.
+What is a power plant's heat rate?
+It is a measure of the plants thermal efficiency.
+What is meant by thermal efficiency?
+How much enery is lost to heat when generating electricity.
