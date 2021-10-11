@@ -7479,3 +7479,5 @@ What is a power plant's heat rate?
 It is a measure of the plants thermal efficiency.
 What is meant by thermal efficiency?
 How much energy is lost to heat when generating electricity.
+What is associated natural gas?
+Natural gas that is produced when extracting crude oil.
