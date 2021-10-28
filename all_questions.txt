@@ -7483,3 +7483,5 @@ What is associated natural gas?
 Natural gas that is produced when extracting crude oil.
 What is Solana?
 It is a crypto blockchain which allows for the creation of smart contracts.
+In what languages can you write programs on Solana?
+You can write programs in Rust, C, and C++.
