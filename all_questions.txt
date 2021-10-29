@@ -7485,3 +7485,5 @@ What is Solana?
 It is a crypto blockchain which allows for the creation of smart contracts.
 In what languages can you write programs on Solana?
 You can write programs in Rust, C, and C++.
+What is a major downside of buying a futures-based Bitcoin ETF.
+The ETF must roll futures contracts every month, generally losing a small amount each time.
