@@ -7489,3 +7489,5 @@ What is a major downside of buying a futures-based Bitcoin ETF?
 The ETF must roll futures contracts every month, generally losing a small amount each time.
 What is the main programming language used for quantitative finance?
 The main programming language is C++.
+What is Rivian Automotive's ticker symbol?
+Rivian's ticker is RIVN.
