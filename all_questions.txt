@@ -7491,3 +7491,5 @@ What is the main programming language used for quantitative finance?
 The main programming language is C++.
 What is Rivian Automotive's ticker symbol?
 Rivian's ticker is RIVN.
+What economic series does PCE stand for?
+PCE stands for personal consumption expenditures.
