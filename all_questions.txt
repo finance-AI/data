@@ -7493,3 +7493,5 @@ What is Rivian Automotive's ticker symbol?
 Rivian's ticker is RIVN.
 What economic series does PCE stand for?
 PCE stands for personal consumption expenditures.
+What does EBITDA stand for?
+EBITDA stands for earnings before interest, taxes, depreciation, and amortization. 
