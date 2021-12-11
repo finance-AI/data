@@ -7495,3 +7495,7 @@ What economic series does PCE stand for?
 PCE stands for personal consumption expenditures.
 What does EBITDA stand for?
 EBITDA stands for earnings before interest, taxes, depreciation, and amortization. 
+If interest rates increase what should happen to stock values?
+Stock values should decrease when interest rates increase.
+If inflation increases what should happen to stock values?
+Stock values should decrease due to higher expected interest rates.
