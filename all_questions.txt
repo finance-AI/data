@@ -7499,3 +7499,5 @@ If interest rates increase what should happen to stock values?
 Stock values should decrease when interest rates increase.
 If inflation increases what should happen to stock values?
 Stock values should decrease due to higher expected interest rates.
+What is the main programming language for smart contracts on the Ethereum blockchain?
+The main programming language is Solidity.
