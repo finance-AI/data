@@ -7503,3 +7503,5 @@ What is the main programming language for smart contracts on the Ethereum blockc
 The main programming language is Solidity.
 What are TIPS?
 Treasury securities whose principle amounts adjust with inflation.
+What is an inverse ETF?
+An ETF which seeks to track the inverse return of an index or commodity.
