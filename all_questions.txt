@@ -7509,3 +7509,5 @@ What is leetcode?
 A great site for programming problems.
 What is Alphabet's ticker symbol?
 Alphabet's ticker is GOOGL.
+When are two time series cointegrated?
+When the difference of a linear combination of the two series is stationary.
